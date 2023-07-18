@@ -1,0 +1,1566 @@
+
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<!--<![endif]-->
+<head>
+
+	<meta charset="UTF-8" />		<link rel="canonical" href="https://gnomestew.com" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://gnomestew.com/xmlrpc.php" />
+
+		<!--[if lt IE 9]>
+	<script src="https://gnomestew.com/wp-content/themes/Extra/scripts/ext/html5.js" type="text/javascript"></script>
+	<![endif]-->
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10"/>
+
+	<meta property="og:image" content="https://gnomestew.com/wp-content/uploads/2018/10/gs_social_media_default.jpg" />
+         <meta name="twitter:image" content="https://gnomestew.com/wp-content/uploads/2018/10/gs_social_media_default.jpg" />	
+	<title>Gnome Stew | The Gaming Blog</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /><meta name='robots' content='max-image-preview:large' />
+<script type="text/javascript">
+			let jqueryParams=[],jQuery=function(r){return jqueryParams=[...jqueryParams,r],jQuery},$=function(r){return jqueryParams=[...jqueryParams,r],$};window.jQuery=jQuery,window.$=jQuery;let customHeadScripts=!1;jQuery.fn=jQuery.prototype={},$.fn=jQuery.prototype={},jQuery.noConflict=function(r){if(window.jQuery)return jQuery=window.jQuery,$=window.jQuery,customHeadScripts=!0,jQuery.noConflict},jQuery.ready=function(r){jqueryParams=[...jqueryParams,r]},$.ready=function(r){jqueryParams=[...jqueryParams,r]},jQuery.load=function(r){jqueryParams=[...jqueryParams,r]},$.load=function(r){jqueryParams=[...jqueryParams,r]},jQuery.fn.ready=function(r){jqueryParams=[...jqueryParams,r]},$.fn.ready=function(r){jqueryParams=[...jqueryParams,r]};</script><link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Gnome Stew &raquo; Feed" href="https://gnomestew.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Gnome Stew &raquo; Comments Feed" href="https://gnomestew.com/comments/feed/" />
+<meta content="GnomeStew2016 v.1.2.2" name="generator"/><link rel='stylesheet' id='wp-block-library-css' href='https://gnomestew.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 856px;--wp--style--global--wide-size: 1280px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='patreon-wordpress-css-css' href='https://gnomestew.com/wp-content/plugins/patreon-connect/assets/css/app.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpah-front-styles-css' href='https://gnomestew.com/wp-content/plugins/wp-accessibility-helper/assets/css/wp-accessibility-helper.min.css?ver=0.5.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='pullquote-shortcode-css' href='https://gnomestew.com/wp-content/plugins/gnomestewmceshortcodes/css/gnomestew_mce_shortcode.css?ver=0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='et_monarch-css-css' href='https://gnomestew.com/wp-content/plugins/monarch/css/style.css?ver=1.4.14' type='text/css' media='all' />
+<link rel='stylesheet' id='et-gf-open-sans-css' href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' type='text/css' media='all' />
+<link rel='stylesheet' id='extra-style-parent-css' href='https://gnomestew.com/wp-content/themes/Extra/style.min.css?ver=4.21.1' type='text/css' media='all' />
+<style id='extra-dynamic-critical-inline-css' type='text/css'>
+@font-face{font-family:ETmodules;font-display:block;src:url(//gnomestew.com/wp-content/themes/Extra/core/admin/fonts/modules/all/modules.eot);src:url(//gnomestew.com/wp-content/themes/Extra/core/admin/fonts/modules/all/modules.eot?#iefix) format("embedded-opentype"),url(//gnomestew.com/wp-content/themes/Extra/core/admin/fonts/modules/all/modules.woff) format("woff"),url(//gnomestew.com/wp-content/themes/Extra/core/admin/fonts/modules/all/modules.ttf) format("truetype"),url(//gnomestew.com/wp-content/themes/Extra/core/admin/fonts/modules/all/modules.svg#ETmodules) format("svg");font-weight:400;font-style:normal}
+.et_audio_content,.et_link_content,.et_quote_content{background-color:#2ea3f2}.et_pb_post .et-pb-controllers a{margin-bottom:10px}.format-gallery .et-pb-controllers{bottom:0}.et_pb_blog_grid .et_audio_content{margin-bottom:19px}.et_pb_row .et_pb_blog_grid .et_pb_post .et_pb_slide{min-height:180px}.et_audio_content .wp-block-audio{margin:0;padding:0}.et_audio_content h2{line-height:44px}.et_pb_column_1_2 .et_audio_content h2,.et_pb_column_1_3 .et_audio_content h2,.et_pb_column_1_4 .et_audio_content h2,.et_pb_column_1_5 .et_audio_content h2,.et_pb_column_1_6 .et_audio_content h2,.et_pb_column_2_5 .et_audio_content h2,.et_pb_column_3_5 .et_audio_content h2,.et_pb_column_3_8 .et_audio_content h2{margin-bottom:9px;margin-top:0}.et_pb_column_1_2 .et_audio_content,.et_pb_column_3_5 .et_audio_content{padding:35px 40px}.et_pb_column_1_2 .et_audio_content h2,.et_pb_column_3_5 .et_audio_content h2{line-height:32px}.et_pb_column_1_3 .et_audio_content,.et_pb_column_1_4 .et_audio_content,.et_pb_column_1_5 .et_audio_content,.et_pb_column_1_6 .et_audio_content,.et_pb_column_2_5 .et_audio_content,.et_pb_column_3_8 .et_audio_content{padding:35px 20px}.et_pb_column_1_3 .et_audio_content h2,.et_pb_column_1_4 .et_audio_content h2,.et_pb_column_1_5 .et_audio_content h2,.et_pb_column_1_6 .et_audio_content h2,.et_pb_column_2_5 .et_audio_content h2,.et_pb_column_3_8 .et_audio_content h2{font-size:18px;line-height:26px}article.et_pb_has_overlay .et_pb_blog_image_container{position:relative}.et_pb_post>.et_main_video_container{position:relative;margin-bottom:30px}.et_pb_post .et_pb_video_overlay .et_pb_video_play{color:#fff}.et_pb_post .et_pb_video_overlay_hover:hover{background:rgba(0,0,0,.6)}.et_audio_content,.et_link_content,.et_quote_content{text-align:center;word-wrap:break-word;position:relative;padding:50px 60px}.et_audio_content h2,.et_link_content a.et_link_main_url,.et_link_content h2,.et_quote_content blockquote cite,.et_quote_content blockquote p{color:#fff!important}.et_quote_main_link{position:absolute;text-indent:-9999px;width:100%;height:100%;display:block;top:0;left:0}.et_quote_content blockquote{padding:0;margin:0;border:none}.et_audio_content h2,.et_link_content h2,.et_quote_content blockquote p{margin-top:0}.et_audio_content h2{margin-bottom:20px}.et_audio_content h2,.et_link_content h2,.et_quote_content blockquote p{line-height:44px}.et_link_content a.et_link_main_url,.et_quote_content blockquote cite{font-size:18px;font-weight:200}.et_quote_content blockquote cite{font-style:normal}.et_pb_column_2_3 .et_quote_content{padding:50px 42px 45px}.et_pb_column_2_3 .et_audio_content,.et_pb_column_2_3 .et_link_content{padding:40px 40px 45px}.et_pb_column_1_2 .et_audio_content,.et_pb_column_1_2 .et_link_content,.et_pb_column_1_2 .et_quote_content,.et_pb_column_3_5 .et_audio_content,.et_pb_column_3_5 .et_link_content,.et_pb_column_3_5 .et_quote_content{padding:35px 40px}.et_pb_column_1_2 .et_quote_content blockquote p,.et_pb_column_3_5 .et_quote_content blockquote p{font-size:26px;line-height:32px}.et_pb_column_1_2 .et_audio_content h2,.et_pb_column_1_2 .et_link_content h2,.et_pb_column_3_5 .et_audio_content h2,.et_pb_column_3_5 .et_link_content h2{line-height:32px}.et_pb_column_1_2 .et_link_content a.et_link_main_url,.et_pb_column_1_2 .et_quote_content blockquote cite,.et_pb_column_3_5 .et_link_content a.et_link_main_url,.et_pb_column_3_5 .et_quote_content blockquote cite{font-size:14px}.et_pb_column_1_3 .et_quote_content,.et_pb_column_1_4 .et_quote_content,.et_pb_column_1_5 .et_quote_content,.et_pb_column_1_6 .et_quote_content,.et_pb_column_2_5 .et_quote_content,.et_pb_column_3_8 .et_quote_content{padding:35px 30px 32px}.et_pb_column_1_3 .et_audio_content,.et_pb_column_1_3 .et_link_content,.et_pb_column_1_4 .et_audio_content,.et_pb_column_1_4 .et_link_content,.et_pb_column_1_5 .et_audio_content,.et_pb_column_1_5 .et_link_content,.et_pb_column_1_6 .et_audio_content,.et_pb_column_1_6 .et_link_content,.et_pb_column_2_5 .et_audio_content,.et_pb_column_2_5 .et_link_content,.et_pb_column_3_8 .et_audio_content,.et_pb_column_3_8 .et_link_content{padding:35px 20px}.et_pb_column_1_3 .et_audio_content h2,.et_pb_column_1_3 .et_link_content h2,.et_pb_column_1_3 .et_quote_content blockquote p,.et_pb_column_1_4 .et_audio_content h2,.et_pb_column_1_4 .et_link_content h2,.et_pb_column_1_4 .et_quote_content blockquote p,.et_pb_column_1_5 .et_audio_content h2,.et_pb_column_1_5 .et_link_content h2,.et_pb_column_1_5 .et_quote_content blockquote p,.et_pb_column_1_6 .et_audio_content h2,.et_pb_column_1_6 .et_link_content h2,.et_pb_column_1_6 .et_quote_content blockquote p,.et_pb_column_2_5 .et_audio_content h2,.et_pb_column_2_5 .et_link_content h2,.et_pb_column_2_5 .et_quote_content blockquote p,.et_pb_column_3_8 .et_audio_content h2,.et_pb_column_3_8 .et_link_content h2,.et_pb_column_3_8 .et_quote_content blockquote p{font-size:18px;line-height:26px}.et_pb_column_1_3 .et_link_content a.et_link_main_url,.et_pb_column_1_3 .et_quote_content blockquote cite,.et_pb_column_1_4 .et_link_content a.et_link_main_url,.et_pb_column_1_4 .et_quote_content blockquote cite,.et_pb_column_1_5 .et_link_content a.et_link_main_url,.et_pb_column_1_5 .et_quote_content blockquote cite,.et_pb_column_1_6 .et_link_content a.et_link_main_url,.et_pb_column_1_6 .et_quote_content blockquote cite,.et_pb_column_2_5 .et_link_content a.et_link_main_url,.et_pb_column_2_5 .et_quote_content blockquote cite,.et_pb_column_3_8 .et_link_content a.et_link_main_url,.et_pb_column_3_8 .et_quote_content blockquote cite{font-size:14px}.et_pb_post .et_pb_gallery_post_type .et_pb_slide{min-height:500px;background-size:cover!important;background-position:top}.format-gallery .et_pb_slider.gallery-not-found .et_pb_slide{box-shadow:inset 0 0 10px rgba(0,0,0,.1)}.format-gallery .et_pb_slider:hover .et-pb-arrow-prev{left:0}.format-gallery .et_pb_slider:hover .et-pb-arrow-next{right:0}.et_pb_post>.et_pb_slider{margin-bottom:30px}.et_pb_column_3_4 .et_pb_post .et_pb_slide{min-height:442px}.et_pb_column_2_3 .et_pb_post .et_pb_slide{min-height:390px}.et_pb_column_1_2 .et_pb_post .et_pb_slide,.et_pb_column_3_5 .et_pb_post .et_pb_slide{min-height:284px}.et_pb_column_1_3 .et_pb_post .et_pb_slide,.et_pb_column_2_5 .et_pb_post .et_pb_slide,.et_pb_column_3_8 .et_pb_post .et_pb_slide{min-height:180px}.et_pb_column_1_4 .et_pb_post .et_pb_slide,.et_pb_column_1_5 .et_pb_post .et_pb_slide,.et_pb_column_1_6 .et_pb_post .et_pb_slide{min-height:125px}.et_pb_portfolio.et_pb_section_parallax .pagination,.et_pb_portfolio.et_pb_section_video .pagination,.et_pb_portfolio_grid.et_pb_section_parallax .pagination,.et_pb_portfolio_grid.et_pb_section_video .pagination{position:relative}.et_pb_bg_layout_light .et_pb_post .post-meta,.et_pb_bg_layout_light .et_pb_post .post-meta a,.et_pb_bg_layout_light .et_pb_post p{color:#666}.et_pb_bg_layout_dark .et_pb_post .post-meta,.et_pb_bg_layout_dark .et_pb_post .post-meta a,.et_pb_bg_layout_dark .et_pb_post p{color:inherit}.et_pb_text_color_dark .et_audio_content h2,.et_pb_text_color_dark .et_link_content a.et_link_main_url,.et_pb_text_color_dark .et_link_content h2,.et_pb_text_color_dark .et_quote_content blockquote cite,.et_pb_text_color_dark .et_quote_content blockquote p{color:#666!important}.et_pb_text_color_dark.et_audio_content h2,.et_pb_text_color_dark.et_link_content a.et_link_main_url,.et_pb_text_color_dark.et_link_content h2,.et_pb_text_color_dark.et_quote_content blockquote cite,.et_pb_text_color_dark.et_quote_content blockquote p{color:#bbb!important}.et_pb_text_color_dark.et_audio_content,.et_pb_text_color_dark.et_link_content,.et_pb_text_color_dark.et_quote_content{background-color:#e8e8e8}@media (min-width:981px) and (max-width:1100px){.et_quote_content{padding:50px 70px 45px}.et_pb_column_2_3 .et_quote_content{padding:50px 50px 45px}.et_pb_column_1_2 .et_quote_content,.et_pb_column_3_5 .et_quote_content{padding:35px 47px 30px}.et_pb_column_1_3 .et_quote_content,.et_pb_column_1_4 .et_quote_content,.et_pb_column_1_5 .et_quote_content,.et_pb_column_1_6 .et_quote_content,.et_pb_column_2_5 .et_quote_content,.et_pb_column_3_8 .et_quote_content{padding:35px 25px 32px}.et_pb_column_4_4 .et_pb_post .et_pb_slide{min-height:534px}.et_pb_column_3_4 .et_pb_post .et_pb_slide{min-height:392px}.et_pb_column_2_3 .et_pb_post .et_pb_slide{min-height:345px}.et_pb_column_1_2 .et_pb_post .et_pb_slide,.et_pb_column_3_5 .et_pb_post .et_pb_slide{min-height:250px}.et_pb_column_1_3 .et_pb_post .et_pb_slide,.et_pb_column_2_5 .et_pb_post .et_pb_slide,.et_pb_column_3_8 .et_pb_post .et_pb_slide{min-height:155px}.et_pb_column_1_4 .et_pb_post .et_pb_slide,.et_pb_column_1_5 .et_pb_post .et_pb_slide,.et_pb_column_1_6 .et_pb_post .et_pb_slide{min-height:108px}}@media (max-width:980px){.et_pb_bg_layout_dark_tablet .et_audio_content h2{color:#fff!important}.et_pb_text_color_dark_tablet.et_audio_content h2{color:#bbb!important}.et_pb_text_color_dark_tablet.et_audio_content{background-color:#e8e8e8}.et_pb_bg_layout_dark_tablet .et_audio_content h2,.et_pb_bg_layout_dark_tablet .et_link_content a.et_link_main_url,.et_pb_bg_layout_dark_tablet .et_link_content h2,.et_pb_bg_layout_dark_tablet .et_quote_content blockquote cite,.et_pb_bg_layout_dark_tablet .et_quote_content blockquote p{color:#fff!important}.et_pb_text_color_dark_tablet .et_audio_content h2,.et_pb_text_color_dark_tablet .et_link_content a.et_link_main_url,.et_pb_text_color_dark_tablet .et_link_content h2,.et_pb_text_color_dark_tablet .et_quote_content blockquote cite,.et_pb_text_color_dark_tablet .et_quote_content blockquote p{color:#666!important}.et_pb_text_color_dark_tablet.et_audio_content h2,.et_pb_text_color_dark_tablet.et_link_content a.et_link_main_url,.et_pb_text_color_dark_tablet.et_link_content h2,.et_pb_text_color_dark_tablet.et_quote_content blockquote cite,.et_pb_text_color_dark_tablet.et_quote_content blockquote p{color:#bbb!important}.et_pb_text_color_dark_tablet.et_audio_content,.et_pb_text_color_dark_tablet.et_link_content,.et_pb_text_color_dark_tablet.et_quote_content{background-color:#e8e8e8}}@media (min-width:768px) and (max-width:980px){.et_audio_content h2{font-size:26px!important;line-height:44px!important;margin-bottom:24px!important}.et_pb_post>.et_pb_gallery_post_type>.et_pb_slides>.et_pb_slide{min-height:384px!important}.et_quote_content{padding:50px 43px 45px!important}.et_quote_content blockquote p{font-size:26px!important;line-height:44px!important}.et_quote_content blockquote cite{font-size:18px!important}.et_link_content{padding:40px 40px 45px}.et_link_content h2{font-size:26px!important;line-height:44px!important}.et_link_content a.et_link_main_url{font-size:18px!important}}@media (max-width:767px){.et_audio_content h2,.et_link_content h2,.et_quote_content,.et_quote_content blockquote p{font-size:20px!important;line-height:26px!important}.et_audio_content,.et_link_content{padding:35px 20px!important}.et_audio_content h2{margin-bottom:9px!important}.et_pb_bg_layout_dark_phone .et_audio_content h2{color:#fff!important}.et_pb_text_color_dark_phone.et_audio_content{background-color:#e8e8e8}.et_link_content a.et_link_main_url,.et_quote_content blockquote cite{font-size:14px!important}.format-gallery .et-pb-controllers{height:auto}.et_pb_post>.et_pb_gallery_post_type>.et_pb_slides>.et_pb_slide{min-height:222px!important}.et_pb_bg_layout_dark_phone .et_audio_content h2,.et_pb_bg_layout_dark_phone .et_link_content a.et_link_main_url,.et_pb_bg_layout_dark_phone .et_link_content h2,.et_pb_bg_layout_dark_phone .et_quote_content blockquote cite,.et_pb_bg_layout_dark_phone .et_quote_content blockquote p{color:#fff!important}.et_pb_text_color_dark_phone .et_audio_content h2,.et_pb_text_color_dark_phone .et_link_content a.et_link_main_url,.et_pb_text_color_dark_phone .et_link_content h2,.et_pb_text_color_dark_phone .et_quote_content blockquote cite,.et_pb_text_color_dark_phone .et_quote_content blockquote p{color:#666!important}.et_pb_text_color_dark_phone.et_audio_content h2,.et_pb_text_color_dark_phone.et_link_content a.et_link_main_url,.et_pb_text_color_dark_phone.et_link_content h2,.et_pb_text_color_dark_phone.et_quote_content blockquote cite,.et_pb_text_color_dark_phone.et_quote_content blockquote p{color:#bbb!important}.et_pb_text_color_dark_phone.et_audio_content,.et_pb_text_color_dark_phone.et_link_content,.et_pb_text_color_dark_phone.et_quote_content{background-color:#e8e8e8}}@media (max-width:479px){.et_pb_column_1_2 .et_pb_carousel_item .et_pb_video_play,.et_pb_column_1_3 .et_pb_carousel_item .et_pb_video_play,.et_pb_column_2_3 .et_pb_carousel_item .et_pb_video_play,.et_pb_column_2_5 .et_pb_carousel_item .et_pb_video_play,.et_pb_column_3_5 .et_pb_carousel_item .et_pb_video_play,.et_pb_column_3_8 .et_pb_carousel_item .et_pb_video_play{font-size:1.5rem;line-height:1.5rem;margin-left:-.75rem;margin-top:-.75rem}.et_audio_content,.et_quote_content{padding:35px 20px!important}.et_pb_post>.et_pb_gallery_post_type>.et_pb_slides>.et_pb_slide{min-height:156px!important}}.et_full_width_page .et_gallery_item{float:left;width:20.875%;margin:0 5.5% 5.5% 0}.et_full_width_page .et_gallery_item:nth-child(3n){margin-right:5.5%}.et_full_width_page .et_gallery_item:nth-child(3n+1){clear:none}.et_full_width_page .et_gallery_item:nth-child(4n){margin-right:0}.et_full_width_page .et_gallery_item:nth-child(4n+1){clear:both}
+.et_pb_slider{position:relative;overflow:hidden}.et_pb_slide{padding:0 6%;background-size:cover;background-position:50%;background-repeat:no-repeat}.et_pb_slider .et_pb_slide{display:none;float:left;margin-right:-100%;position:relative;width:100%;text-align:center;list-style:none!important;background-position:50%;background-size:100%;background-size:cover}.et_pb_slider .et_pb_slide:first-child{display:list-item}.et-pb-controllers{position:absolute;bottom:20px;left:0;width:100%;text-align:center;z-index:10}.et-pb-controllers a{display:inline-block;background-color:hsla(0,0%,100%,.5);text-indent:-9999px;border-radius:7px;width:7px;height:7px;margin-right:10px;padding:0;opacity:.5}.et-pb-controllers .et-pb-active-control{opacity:1}.et-pb-controllers a:last-child{margin-right:0}.et-pb-controllers .et-pb-active-control{background-color:#fff}.et_pb_slides .et_pb_temp_slide{display:block}.et_pb_slides:after{content:"";display:block;clear:both;visibility:hidden;line-height:0;height:0;width:0}@media (max-width:980px){.et_pb_bg_layout_light_tablet .et-pb-controllers .et-pb-active-control{background-color:#333}.et_pb_bg_layout_light_tablet .et-pb-controllers a{background-color:rgba(0,0,0,.3)}.et_pb_bg_layout_light_tablet .et_pb_slide_content{color:#333}.et_pb_bg_layout_dark_tablet .et_pb_slide_description{text-shadow:0 1px 3px rgba(0,0,0,.3)}.et_pb_bg_layout_dark_tablet .et_pb_slide_content{color:#fff}.et_pb_bg_layout_dark_tablet .et-pb-controllers .et-pb-active-control{background-color:#fff}.et_pb_bg_layout_dark_tablet .et-pb-controllers a{background-color:hsla(0,0%,100%,.5)}}@media (max-width:767px){.et-pb-controllers{position:absolute;bottom:5%;left:0;width:100%;text-align:center;z-index:10;height:14px}.et_transparent_nav .et_pb_section:first-child .et-pb-controllers{bottom:18px}.et_pb_bg_layout_light_phone.et_pb_slider_with_overlay .et_pb_slide_overlay_container,.et_pb_bg_layout_light_phone.et_pb_slider_with_text_overlay .et_pb_text_overlay_wrapper{background-color:hsla(0,0%,100%,.9)}.et_pb_bg_layout_light_phone .et-pb-controllers .et-pb-active-control{background-color:#333}.et_pb_bg_layout_dark_phone.et_pb_slider_with_overlay .et_pb_slide_overlay_container,.et_pb_bg_layout_dark_phone.et_pb_slider_with_text_overlay .et_pb_text_overlay_wrapper,.et_pb_bg_layout_light_phone .et-pb-controllers a{background-color:rgba(0,0,0,.3)}.et_pb_bg_layout_dark_phone .et-pb-controllers .et-pb-active-control{background-color:#fff}.et_pb_bg_layout_dark_phone .et-pb-controllers a{background-color:hsla(0,0%,100%,.5)}}.et_mobile_device .et_pb_slider_parallax .et_pb_slide,.et_mobile_device .et_pb_slides .et_parallax_bg.et_pb_parallax_css{background-attachment:scroll}
+.et-pb-arrow-next,.et-pb-arrow-prev{position:absolute;top:50%;z-index:100;font-size:48px;color:#fff;margin-top:-24px;transition:all .2s ease-in-out;opacity:0}.et_pb_bg_layout_light .et-pb-arrow-next,.et_pb_bg_layout_light .et-pb-arrow-prev{color:#333}.et_pb_slider:hover .et-pb-arrow-prev{left:22px;opacity:1}.et_pb_slider:hover .et-pb-arrow-next{right:22px;opacity:1}.et_pb_bg_layout_light .et-pb-controllers .et-pb-active-control{background-color:#333}.et_pb_bg_layout_light .et-pb-controllers a{background-color:rgba(0,0,0,.3)}.et-pb-arrow-next:hover,.et-pb-arrow-prev:hover{text-decoration:none}.et-pb-arrow-next span,.et-pb-arrow-prev span{display:none}.et-pb-arrow-prev{left:-22px}.et-pb-arrow-next{right:-22px}.et-pb-arrow-prev:before{content:"4"}.et-pb-arrow-next:before{content:"5"}.format-gallery .et-pb-arrow-next,.format-gallery .et-pb-arrow-prev{color:#fff}.et_pb_column_1_3 .et_pb_slider:hover .et-pb-arrow-prev,.et_pb_column_1_4 .et_pb_slider:hover .et-pb-arrow-prev,.et_pb_column_1_5 .et_pb_slider:hover .et-pb-arrow-prev,.et_pb_column_1_6 .et_pb_slider:hover .et-pb-arrow-prev,.et_pb_column_2_5 .et_pb_slider:hover .et-pb-arrow-prev{left:0}.et_pb_column_1_3 .et_pb_slider:hover .et-pb-arrow-next,.et_pb_column_1_4 .et_pb_slider:hover .et-pb-arrow-prev,.et_pb_column_1_5 .et_pb_slider:hover .et-pb-arrow-prev,.et_pb_column_1_6 .et_pb_slider:hover .et-pb-arrow-prev,.et_pb_column_2_5 .et_pb_slider:hover .et-pb-arrow-next{right:0}.et_pb_column_1_4 .et_pb_slider .et_pb_slide,.et_pb_column_1_5 .et_pb_slider .et_pb_slide,.et_pb_column_1_6 .et_pb_slider .et_pb_slide{min-height:170px}.et_pb_column_1_4 .et_pb_slider:hover .et-pb-arrow-next,.et_pb_column_1_5 .et_pb_slider:hover .et-pb-arrow-next,.et_pb_column_1_6 .et_pb_slider:hover .et-pb-arrow-next{right:0}@media (max-width:980px){.et_pb_bg_layout_light_tablet .et-pb-arrow-next,.et_pb_bg_layout_light_tablet .et-pb-arrow-prev{color:#333}.et_pb_bg_layout_dark_tablet .et-pb-arrow-next,.et_pb_bg_layout_dark_tablet .et-pb-arrow-prev{color:#fff}}@media (max-width:767px){.et_pb_slider:hover .et-pb-arrow-prev{left:0;opacity:1}.et_pb_slider:hover .et-pb-arrow-next{right:0;opacity:1}.et_pb_bg_layout_light_phone .et-pb-arrow-next,.et_pb_bg_layout_light_phone .et-pb-arrow-prev{color:#333}.et_pb_bg_layout_dark_phone .et-pb-arrow-next,.et_pb_bg_layout_dark_phone .et-pb-arrow-prev{color:#fff}}.et_mobile_device .et-pb-arrow-prev{left:22px;opacity:1}.et_mobile_device .et-pb-arrow-next{right:22px;opacity:1}@media (max-width:767px){.et_mobile_device .et-pb-arrow-prev{left:0;opacity:1}.et_mobile_device .et-pb-arrow-next{right:0;opacity:1}}
+.et_overlay{z-index:-1;position:absolute;top:0;left:0;display:block;width:100%;height:100%;background:hsla(0,0%,100%,.9);opacity:0;pointer-events:none;transition:all .3s;border:1px solid #e5e5e5;box-sizing:border-box;-webkit-backface-visibility:hidden;backface-visibility:hidden;-webkit-font-smoothing:antialiased}.et_overlay:before{color:#2ea3f2;content:"\E050";position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:32px;transition:all .4s}.et_portfolio_image,.et_shop_image{position:relative;display:block}.et_pb_has_overlay:not(.et_pb_image):hover .et_overlay,.et_portfolio_image:hover .et_overlay,.et_shop_image:hover .et_overlay{z-index:3;opacity:1}#ie7 .et_overlay,#ie8 .et_overlay{display:none}.et_pb_module.et_pb_has_overlay{position:relative}.et_pb_module.et_pb_has_overlay .et_overlay,article.et_pb_has_overlay{border:none}
+.et_pb_blog_grid .et_audio_container .mejs-container .mejs-controls .mejs-time span{font-size:14px}.et_audio_container .mejs-container{width:auto!important;min-width:unset!important;height:auto!important}.et_audio_container .mejs-container,.et_audio_container .mejs-container .mejs-controls,.et_audio_container .mejs-embed,.et_audio_container .mejs-embed body{background:none;height:auto}.et_audio_container .mejs-controls .mejs-time-rail .mejs-time-loaded,.et_audio_container .mejs-time.mejs-currenttime-container{display:none!important}.et_audio_container .mejs-time{display:block!important;padding:0;margin-left:10px;margin-right:90px;line-height:inherit}.et_audio_container .mejs-android .mejs-time,.et_audio_container .mejs-ios .mejs-time,.et_audio_container .mejs-ipad .mejs-time,.et_audio_container .mejs-iphone .mejs-time{margin-right:0}.et_audio_container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total,.et_audio_container .mejs-controls .mejs-time-rail .mejs-time-total{background:hsla(0,0%,100%,.5);border-radius:5px;height:4px;margin:8px 0 0;top:0;right:0;left:auto}.et_audio_container .mejs-controls>div{height:20px!important}.et_audio_container .mejs-controls div.mejs-time-rail{padding-top:0;position:relative;display:block!important;margin-left:42px;margin-right:0}.et_audio_container span.mejs-time-total.mejs-time-slider{display:block!important;position:relative!important;max-width:100%;min-width:unset!important}.et_audio_container .mejs-button.mejs-volume-button{width:auto;height:auto;margin-left:auto;position:absolute;right:59px;bottom:-2px}.et_audio_container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,.et_audio_container .mejs-controls .mejs-time-rail .mejs-time-current{background:#fff;height:4px;border-radius:5px}.et_audio_container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-handle,.et_audio_container .mejs-controls .mejs-time-rail .mejs-time-handle{display:block;border:none;width:10px}.et_audio_container .mejs-time-rail .mejs-time-handle-content{border-radius:100%;transform:scale(1)}.et_pb_text_color_dark .et_audio_container .mejs-time-rail .mejs-time-handle-content{border-color:#666}.et_audio_container .mejs-time-rail .mejs-time-hovered{height:4px}.et_audio_container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-handle{background:#fff;border-radius:5px;height:10px;position:absolute;top:-3px}.et_audio_container .mejs-container .mejs-controls .mejs-time span{font-size:18px}.et_audio_container .mejs-controls a.mejs-horizontal-volume-slider{display:block!important;height:19px;margin-left:5px;position:absolute;right:0;bottom:0}.et_audio_container .mejs-controls div.mejs-horizontal-volume-slider{height:4px}.et_audio_container .mejs-playpause-button button,.et_audio_container .mejs-volume-button button{background:none!important;margin:0!important;width:auto!important;height:auto!important;position:relative!important;z-index:99}.et_audio_container .mejs-playpause-button button:before{content:"E"!important;font-size:32px;left:0;top:-8px}.et_audio_container .mejs-playpause-button button:before,.et_audio_container .mejs-volume-button button:before{color:#fff}.et_audio_container .mejs-playpause-button{margin-top:-7px!important;width:auto!important;height:auto!important;position:absolute}.et_audio_container .mejs-controls .mejs-button button:focus{outline:none}.et_audio_container .mejs-playpause-button.mejs-pause button:before{content:"`"!important}.et_audio_container .mejs-volume-button button:before{content:"\E068";font-size:18px}.et_pb_text_color_dark .et_audio_container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total,.et_pb_text_color_dark .et_audio_container .mejs-controls .mejs-time-rail .mejs-time-total{background:hsla(0,0%,60%,.5)}.et_pb_text_color_dark .et_audio_container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,.et_pb_text_color_dark .et_audio_container .mejs-controls .mejs-time-rail .mejs-time-current{background:#999}.et_pb_text_color_dark .et_audio_container .mejs-playpause-button button:before,.et_pb_text_color_dark .et_audio_container .mejs-volume-button button:before{color:#666}.et_pb_text_color_dark .et_audio_container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-handle,.et_pb_text_color_dark .mejs-controls .mejs-time-rail .mejs-time-handle{background:#666}.et_pb_text_color_dark .mejs-container .mejs-controls .mejs-time span{color:#999}.et_pb_column_1_3 .et_audio_container .mejs-container .mejs-controls .mejs-time span,.et_pb_column_1_4 .et_audio_container .mejs-container .mejs-controls .mejs-time span,.et_pb_column_1_5 .et_audio_container .mejs-container .mejs-controls .mejs-time span,.et_pb_column_1_6 .et_audio_container .mejs-container .mejs-controls .mejs-time span,.et_pb_column_2_5 .et_audio_container .mejs-container .mejs-controls .mejs-time span,.et_pb_column_3_8 .et_audio_container .mejs-container .mejs-controls .mejs-time span{font-size:14px}.et_audio_container .mejs-container .mejs-controls{padding:0;flex-wrap:wrap;min-width:unset!important;position:relative}@media (max-width:980px){.et_pb_column_1_3 .et_audio_container .mejs-container .mejs-controls .mejs-time span,.et_pb_column_1_4 .et_audio_container .mejs-container .mejs-controls .mejs-time span,.et_pb_column_1_5 .et_audio_container .mejs-container .mejs-controls .mejs-time span,.et_pb_column_1_6 .et_audio_container .mejs-container .mejs-controls .mejs-time span,.et_pb_column_2_5 .et_audio_container .mejs-container .mejs-controls .mejs-time span,.et_pb_column_3_8 .et_audio_container .mejs-container .mejs-controls .mejs-time span{font-size:18px}.et_pb_bg_layout_dark_tablet .et_audio_container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total,.et_pb_bg_layout_dark_tablet .et_audio_container .mejs-controls .mejs-time-rail .mejs-time-total{background:hsla(0,0%,100%,.5)}.et_pb_bg_layout_dark_tablet .et_audio_container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,.et_pb_bg_layout_dark_tablet .et_audio_container .mejs-controls .mejs-time-rail .mejs-time-current{background:#fff}.et_pb_bg_layout_dark_tablet .et_audio_container .mejs-playpause-button button:before,.et_pb_bg_layout_dark_tablet .et_audio_container .mejs-volume-button button:before{color:#fff}.et_pb_bg_layout_dark_tablet .et_audio_container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-handle,.et_pb_bg_layout_dark_tablet .mejs-controls .mejs-time-rail .mejs-time-handle{background:#fff}.et_pb_bg_layout_dark_tablet .mejs-container .mejs-controls .mejs-time span{color:#fff}.et_pb_text_color_dark_tablet .et_audio_container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total,.et_pb_text_color_dark_tablet .et_audio_container .mejs-controls .mejs-time-rail .mejs-time-total{background:hsla(0,0%,60%,.5)}.et_pb_text_color_dark_tablet .et_audio_container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,.et_pb_text_color_dark_tablet .et_audio_container .mejs-controls .mejs-time-rail .mejs-time-current{background:#999}.et_pb_text_color_dark_tablet .et_audio_container .mejs-playpause-button button:before,.et_pb_text_color_dark_tablet .et_audio_container .mejs-volume-button button:before{color:#666}.et_pb_text_color_dark_tablet .et_audio_container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-handle,.et_pb_text_color_dark_tablet .mejs-controls .mejs-time-rail .mejs-time-handle{background:#666}.et_pb_text_color_dark_tablet .mejs-container .mejs-controls .mejs-time span{color:#999}}@media (max-width:767px){.et_audio_container .mejs-container .mejs-controls .mejs-time span{font-size:14px!important}.et_pb_bg_layout_dark_phone .et_audio_container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total,.et_pb_bg_layout_dark_phone .et_audio_container .mejs-controls .mejs-time-rail .mejs-time-total{background:hsla(0,0%,100%,.5)}.et_pb_bg_layout_dark_phone .et_audio_container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,.et_pb_bg_layout_dark_phone .et_audio_container .mejs-controls .mejs-time-rail .mejs-time-current{background:#fff}.et_pb_bg_layout_dark_phone .et_audio_container .mejs-playpause-button button:before,.et_pb_bg_layout_dark_phone .et_audio_container .mejs-volume-button button:before{color:#fff}.et_pb_bg_layout_dark_phone .et_audio_container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-handle,.et_pb_bg_layout_dark_phone .mejs-controls .mejs-time-rail .mejs-time-handle{background:#fff}.et_pb_bg_layout_dark_phone .mejs-container .mejs-controls .mejs-time span{color:#fff}.et_pb_text_color_dark_phone .et_audio_container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total,.et_pb_text_color_dark_phone .et_audio_container .mejs-controls .mejs-time-rail .mejs-time-total{background:hsla(0,0%,60%,.5)}.et_pb_text_color_dark_phone .et_audio_container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,.et_pb_text_color_dark_phone .et_audio_container .mejs-controls .mejs-time-rail .mejs-time-current{background:#999}.et_pb_text_color_dark_phone .et_audio_container .mejs-playpause-button button:before,.et_pb_text_color_dark_phone .et_audio_container .mejs-volume-button button:before{color:#666}.et_pb_text_color_dark_phone .et_audio_container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-handle,.et_pb_text_color_dark_phone .mejs-controls .mejs-time-rail .mejs-time-handle{background:#666}.et_pb_text_color_dark_phone .mejs-container .mejs-controls .mejs-time span{color:#999}}
+.et_pb_video_box{display:block;position:relative;z-index:1;line-height:0}.et_pb_video_box video{width:100%!important;height:auto!important}.et_pb_video_overlay{position:absolute;z-index:10;top:0;left:0;height:100%;width:100%;background-size:cover;background-repeat:no-repeat;background-position:50%;cursor:pointer}.et_pb_video_play:before{font-family:ETmodules;content:"I"}.et_pb_video_play{display:block;position:absolute;z-index:100;color:#fff;left:50%;top:50%}.et_pb_column_1_2 .et_pb_video_play,.et_pb_column_2_3 .et_pb_video_play,.et_pb_column_3_4 .et_pb_video_play,.et_pb_column_3_5 .et_pb_video_play,.et_pb_column_4_4 .et_pb_video_play{font-size:6rem;line-height:6rem;margin-left:-3rem;margin-top:-3rem}.et_pb_column_1_3 .et_pb_video_play,.et_pb_column_1_4 .et_pb_video_play,.et_pb_column_1_5 .et_pb_video_play,.et_pb_column_1_6 .et_pb_video_play,.et_pb_column_2_5 .et_pb_video_play,.et_pb_column_3_8 .et_pb_video_play{font-size:3rem;line-height:3rem;margin-left:-1.5rem;margin-top:-1.5rem}.et_pb_bg_layout_light .et_pb_video_play{color:#333}.et_pb_video_overlay_hover{background:transparent;width:100%;height:100%;position:absolute;z-index:100;transition:all .5s ease-in-out}.et_pb_video .et_pb_video_overlay_hover:hover{background:rgba(0,0,0,.6)}@media (min-width:768px) and (max-width:980px){.et_pb_column_1_3 .et_pb_video_play,.et_pb_column_1_4 .et_pb_video_play,.et_pb_column_1_5 .et_pb_video_play,.et_pb_column_1_6 .et_pb_video_play,.et_pb_column_2_5 .et_pb_video_play,.et_pb_column_3_8 .et_pb_video_play{font-size:6rem;line-height:6rem;margin-left:-3rem;margin-top:-3rem}}@media (max-width:980px){.et_pb_bg_layout_light_tablet .et_pb_video_play{color:#333}}@media (max-width:768px){.et_pb_column_1_2 .et_pb_video_play,.et_pb_column_2_3 .et_pb_video_play,.et_pb_column_3_4 .et_pb_video_play,.et_pb_column_3_5 .et_pb_video_play,.et_pb_column_4_4 .et_pb_video_play{font-size:3rem;line-height:3rem;margin-left:-1.5rem;margin-top:-1.5rem}}@media (max-width:767px){.et_pb_bg_layout_light_phone .et_pb_video_play{color:#333}}
+.et_post_gallery{padding:0!important;line-height:1.7!important;list-style:none!important}.et_gallery_item{float:left;width:28.353%;margin:0 7.47% 7.47% 0}.blocks-gallery-item,.et_gallery_item{padding-left:0!important}.blocks-gallery-item:before,.et_gallery_item:before{display:none}.et_gallery_item:nth-child(3n){margin-right:0}.et_gallery_item:nth-child(3n+1){clear:both}
+.et_pb_post{margin-bottom:60px;word-wrap:break-word}.et_pb_fullwidth_post_content.et_pb_with_border img,.et_pb_post_content.et_pb_with_border img,.et_pb_with_border .et_pb_post .et_pb_slides,.et_pb_with_border .et_pb_post img:not(.woocommerce-placeholder),.et_pb_with_border.et_pb_posts .et_pb_post,.et_pb_with_border.et_pb_posts_nav span.nav-next a,.et_pb_with_border.et_pb_posts_nav span.nav-previous a{border:0 solid #333}.et_pb_post .entry-content{padding-top:30px}.et_pb_post .entry-featured-image-url{display:block;position:relative;margin-bottom:30px}.et_pb_post .entry-title a,.et_pb_post h2 a{text-decoration:none}.et_pb_post .post-meta{font-size:14px;margin-bottom:6px}.et_pb_post .more,.et_pb_post .post-meta a{text-decoration:none}.et_pb_post .more{color:#82c0c7}.et_pb_posts a.more-link{clear:both;display:block}.et_pb_posts .et_pb_post{position:relative}.et_pb_has_overlay.et_pb_post .et_pb_image_container a{display:block;position:relative;overflow:hidden}.et_pb_image_container img,.et_pb_post a img{vertical-align:bottom;max-width:100%}@media (min-width:981px) and (max-width:1100px){.et_pb_post{margin-bottom:42px}}@media (max-width:980px){.et_pb_post{margin-bottom:42px}.et_pb_bg_layout_light_tablet .et_pb_post .post-meta,.et_pb_bg_layout_light_tablet .et_pb_post .post-meta a,.et_pb_bg_layout_light_tablet .et_pb_post p{color:#666}.et_pb_bg_layout_dark_tablet .et_pb_post .post-meta,.et_pb_bg_layout_dark_tablet .et_pb_post .post-meta a,.et_pb_bg_layout_dark_tablet .et_pb_post p{color:inherit}.et_pb_bg_layout_dark_tablet .comment_postinfo a,.et_pb_bg_layout_dark_tablet .comment_postinfo span{color:#fff}}@media (max-width:767px){.et_pb_post{margin-bottom:42px}.et_pb_post>h2{font-size:18px}.et_pb_bg_layout_light_phone .et_pb_post .post-meta,.et_pb_bg_layout_light_phone .et_pb_post .post-meta a,.et_pb_bg_layout_light_phone .et_pb_post p{color:#666}.et_pb_bg_layout_dark_phone .et_pb_post .post-meta,.et_pb_bg_layout_dark_phone .et_pb_post .post-meta a,.et_pb_bg_layout_dark_phone .et_pb_post p{color:inherit}.et_pb_bg_layout_dark_phone .comment_postinfo a,.et_pb_bg_layout_dark_phone .comment_postinfo span{color:#fff}}@media (max-width:479px){.et_pb_post{margin-bottom:42px}.et_pb_post h2{font-size:16px;padding-bottom:0}.et_pb_post .post-meta{color:#666;font-size:14px}}
+@media (min-width:981px){.et_pb_gutters3 .et_pb_column,.et_pb_gutters3.et_pb_row .et_pb_column{margin-right:5.5%}.et_pb_gutters3 .et_pb_column_4_4,.et_pb_gutters3.et_pb_row .et_pb_column_4_4{width:100%}.et_pb_gutters3 .et_pb_column_4_4 .et_pb_module,.et_pb_gutters3.et_pb_row .et_pb_column_4_4 .et_pb_module{margin-bottom:2.75%}.et_pb_gutters3 .et_pb_column_3_4,.et_pb_gutters3.et_pb_row .et_pb_column_3_4{width:73.625%}.et_pb_gutters3 .et_pb_column_3_4 .et_pb_module,.et_pb_gutters3.et_pb_row .et_pb_column_3_4 .et_pb_module{margin-bottom:3.735%}.et_pb_gutters3 .et_pb_column_2_3,.et_pb_gutters3.et_pb_row .et_pb_column_2_3{width:64.833%}.et_pb_gutters3 .et_pb_column_2_3 .et_pb_module,.et_pb_gutters3.et_pb_row .et_pb_column_2_3 .et_pb_module{margin-bottom:4.242%}.et_pb_gutters3 .et_pb_column_3_5,.et_pb_gutters3.et_pb_row .et_pb_column_3_5{width:57.8%}.et_pb_gutters3 .et_pb_column_3_5 .et_pb_module,.et_pb_gutters3.et_pb_row .et_pb_column_3_5 .et_pb_module{margin-bottom:4.758%}.et_pb_gutters3 .et_pb_column_1_2,.et_pb_gutters3.et_pb_row .et_pb_column_1_2{width:47.25%}.et_pb_gutters3 .et_pb_column_1_2 .et_pb_module,.et_pb_gutters3.et_pb_row .et_pb_column_1_2 .et_pb_module{margin-bottom:5.82%}.et_pb_gutters3 .et_pb_column_2_5,.et_pb_gutters3.et_pb_row .et_pb_column_2_5{width:36.7%}.et_pb_gutters3 .et_pb_column_2_5 .et_pb_module,.et_pb_gutters3.et_pb_row .et_pb_column_2_5 .et_pb_module{margin-bottom:7.493%}.et_pb_gutters3 .et_pb_column_1_3,.et_pb_gutters3.et_pb_row .et_pb_column_1_3{width:29.6667%}.et_pb_gutters3 .et_pb_column_1_3 .et_pb_module,.et_pb_gutters3.et_pb_row .et_pb_column_1_3 .et_pb_module{margin-bottom:9.27%}.et_pb_gutters3 .et_pb_column_1_4,.et_pb_gutters3.et_pb_row .et_pb_column_1_4{width:20.875%}.et_pb_gutters3 .et_pb_column_1_4 .et_pb_module,.et_pb_gutters3.et_pb_row .et_pb_column_1_4 .et_pb_module{margin-bottom:13.174%}.et_pb_gutters3 .et_pb_column_1_5,.et_pb_gutters3.et_pb_row .et_pb_column_1_5{width:15.6%}.et_pb_gutters3 .et_pb_column_1_5 .et_pb_module,.et_pb_gutters3.et_pb_row .et_pb_column_1_5 .et_pb_module{margin-bottom:17.628%}.et_pb_gutters3 .et_pb_column_1_6,.et_pb_gutters3.et_pb_row .et_pb_column_1_6{width:12.0833%}.et_pb_gutters3 .et_pb_column_1_6 .et_pb_module,.et_pb_gutters3.et_pb_row .et_pb_column_1_6 .et_pb_module{margin-bottom:22.759%}.et_pb_gutters3 .et_full_width_page.woocommerce-page ul.products li.product{width:20.875%;margin-right:5.5%;margin-bottom:5.5%}.et_pb_gutters3.et_left_sidebar.woocommerce-page #main-content ul.products li.product,.et_pb_gutters3.et_right_sidebar.woocommerce-page #main-content ul.products li.product{width:28.353%;margin-right:7.47%}.et_pb_gutters3.et_left_sidebar.woocommerce-page #main-content ul.products.columns-1 li.product,.et_pb_gutters3.et_right_sidebar.woocommerce-page #main-content ul.products.columns-1 li.product{width:100%;margin-right:0}.et_pb_gutters3.et_left_sidebar.woocommerce-page #main-content ul.products.columns-2 li.product,.et_pb_gutters3.et_right_sidebar.woocommerce-page #main-content ul.products.columns-2 li.product{width:48%;margin-right:4%}.et_pb_gutters3.et_left_sidebar.woocommerce-page #main-content ul.products.columns-2 li:nth-child(2n+2),.et_pb_gutters3.et_right_sidebar.woocommerce-page #main-content ul.products.columns-2 li:nth-child(2n+2){margin-right:0}.et_pb_gutters3.et_left_sidebar.woocommerce-page #main-content ul.products.columns-2 li:nth-child(3n+1),.et_pb_gutters3.et_right_sidebar.woocommerce-page #main-content ul.products.columns-2 li:nth-child(3n+1){clear:none}}
+@-webkit-keyframes fadeOutTop{0%{opacity:1;transform:translatey(0)}to{opacity:0;transform:translatey(-60%)}}@keyframes fadeOutTop{0%{opacity:1;transform:translatey(0)}to{opacity:0;transform:translatey(-60%)}}@-webkit-keyframes fadeInTop{0%{opacity:0;transform:translatey(-60%)}to{opacity:1;transform:translatey(0)}}@keyframes fadeInTop{0%{opacity:0;transform:translatey(-60%)}to{opacity:1;transform:translatey(0)}}@-webkit-keyframes fadeInBottom{0%{opacity:0;transform:translatey(60%)}to{opacity:1;transform:translatey(0)}}@keyframes fadeInBottom{0%{opacity:0;transform:translatey(60%)}to{opacity:1;transform:translatey(0)}}@-webkit-keyframes fadeOutBottom{0%{opacity:1;transform:translatey(0)}to{opacity:0;transform:translatey(60%)}}@keyframes fadeOutBottom{0%{opacity:1;transform:translatey(0)}to{opacity:0;transform:translatey(60%)}}@-webkit-keyframes Grow{0%{opacity:0;transform:scaleY(.5)}to{opacity:1;transform:scale(1)}}@keyframes Grow{0%{opacity:0;transform:scaleY(.5)}to{opacity:1;transform:scale(1)}}/*!
+	  * Animate.css - http://daneden.me/animate
+	  * Licensed under the MIT license - http://opensource.org/licenses/MIT
+	  * Copyright (c) 2015 Daniel Eden
+	 */@-webkit-keyframes flipInX{0%{transform:perspective(400px) rotateX(90deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in;opacity:0}40%{transform:perspective(400px) rotateX(-20deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}60%{transform:perspective(400px) rotateX(10deg);opacity:1}80%{transform:perspective(400px) rotateX(-5deg)}to{transform:perspective(400px)}}@keyframes flipInX{0%{transform:perspective(400px) rotateX(90deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in;opacity:0}40%{transform:perspective(400px) rotateX(-20deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}60%{transform:perspective(400px) rotateX(10deg);opacity:1}80%{transform:perspective(400px) rotateX(-5deg)}to{transform:perspective(400px)}}@-webkit-keyframes flipInY{0%{transform:perspective(400px) rotateY(90deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in;opacity:0}40%{transform:perspective(400px) rotateY(-20deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}60%{transform:perspective(400px) rotateY(10deg);opacity:1}80%{transform:perspective(400px) rotateY(-5deg)}to{transform:perspective(400px)}}@keyframes flipInY{0%{transform:perspective(400px) rotateY(90deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in;opacity:0}40%{transform:perspective(400px) rotateY(-20deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}60%{transform:perspective(400px) rotateY(10deg);opacity:1}80%{transform:perspective(400px) rotateY(-5deg)}to{transform:perspective(400px)}}
+.nav li li{padding:0 20px;margin:0}.et-menu li li a{padding:6px 20px;width:200px}.nav li{position:relative;line-height:1em}.nav li li{position:relative;line-height:2em}.nav li ul{position:absolute;padding:20px 0;z-index:9999;width:240px;background:#fff;visibility:hidden;opacity:0;border-top:3px solid #2ea3f2;box-shadow:0 2px 5px rgba(0,0,0,.1);-moz-box-shadow:0 2px 5px rgba(0,0,0,.1);-webkit-box-shadow:0 2px 5px rgba(0,0,0,.1);-webkit-transform:translateZ(0);text-align:left}.nav li.et-hover>ul{visibility:visible}.nav li.et-touch-hover>ul,.nav li:hover>ul{opacity:1;visibility:visible}.nav li li ul{z-index:1000;top:-23px;left:240px}.nav li.et-reverse-direction-nav li ul{left:auto;right:240px}.nav li:hover{visibility:inherit}.et_mobile_menu li a,.nav li li a{font-size:14px;transition:opacity .2s ease-in-out,background-color .2s ease-in-out}.et_mobile_menu li a:hover,.nav ul li a:hover{background-color:rgba(0,0,0,.03);opacity:.7}.et-dropdown-removing>ul{display:none}.mega-menu .et-dropdown-removing>ul{display:block}.et-menu .menu-item-has-children>a:first-child:after{font-family:ETmodules;content:"3";font-size:16px;position:absolute;right:0;top:0;font-weight:800}.et-menu .menu-item-has-children>a:first-child{padding-right:20px}.et-menu li li.menu-item-has-children>a:first-child:after{right:20px;top:6px}.et-menu-nav li.mega-menu{position:inherit}.et-menu-nav li.mega-menu>ul{padding:30px 20px;position:absolute!important;width:100%;left:0!important}.et-menu-nav li.mega-menu ul li{margin:0;float:left!important;display:block!important;padding:0!important}.et-menu-nav li.mega-menu li>ul{-webkit-animation:none!important;animation:none!important;padding:0;border:none;left:auto;top:auto;width:240px!important;position:relative;box-shadow:none;-webkit-box-shadow:none}.et-menu-nav li.mega-menu li ul{visibility:visible;opacity:1;display:none}.et-menu-nav li.mega-menu.et-hover li ul,.et-menu-nav li.mega-menu:hover li ul{display:block}.et-menu-nav li.mega-menu:hover>ul{opacity:1!important;visibility:visible!important}.et-menu-nav li.mega-menu>ul>li>a:first-child{padding-top:0!important;font-weight:700;border-bottom:1px solid rgba(0,0,0,.03)}.et-menu-nav li.mega-menu>ul>li>a:first-child:hover{background-color:transparent!important}.et-menu-nav li.mega-menu li>a{width:200px!important}.et-menu-nav li.mega-menu.mega-menu-parent li>a,.et-menu-nav li.mega-menu.mega-menu-parent li li{width:100%!important}.et-menu-nav li.mega-menu.mega-menu-parent li>.sub-menu{float:left;width:100%!important}.et-menu-nav li.mega-menu>ul>li{width:25%;margin:0}.et-menu-nav li.mega-menu.mega-menu-parent-3>ul>li{width:33.33%}.et-menu-nav li.mega-menu.mega-menu-parent-2>ul>li{width:50%}.et-menu-nav li.mega-menu.mega-menu-parent-1>ul>li{width:100%}.et_pb_fullwidth_menu li.mega-menu .menu-item-has-children>a:first-child:after,.et_pb_menu li.mega-menu .menu-item-has-children>a:first-child:after{display:none}.et_fullwidth_nav #top-menu li.mega-menu>ul{width:auto;left:30px!important;right:30px!important}.et_mobile_menu{position:absolute;left:0;padding:5%;background:#fff;width:100%;visibility:visible;opacity:1;display:none;z-index:9999;border-top:3px solid #2ea3f2;box-shadow:0 2px 5px rgba(0,0,0,.1);-moz-box-shadow:0 2px 5px rgba(0,0,0,.1);-webkit-box-shadow:0 2px 5px rgba(0,0,0,.1)}#main-header .et_mobile_menu li ul,.et_pb_fullwidth_menu .et_mobile_menu li ul,.et_pb_menu .et_mobile_menu li ul{visibility:visible!important;display:block!important;padding-left:10px}.et_mobile_menu li li{padding-left:5%}.et_mobile_menu li a{border-bottom:1px solid rgba(0,0,0,.03);color:#666;padding:10px 5%;display:block}.et_mobile_menu .menu-item-has-children>a{font-weight:700;background-color:rgba(0,0,0,.03)}.et_mobile_menu li .menu-item-has-children>a{background-color:transparent}.et_mobile_nav_menu{float:right;display:none}.mobile_menu_bar{position:relative;display:block;line-height:0}.mobile_menu_bar:before{content:"a";font-size:32px;position:relative;left:0;top:0;cursor:pointer}.et_pb_module .mobile_menu_bar:before{top:2px}.mobile_nav .select_page{display:none}
+</style>
+<link rel='preload' id='extra-dynamic-late-css' href='https://gnomestew.com/wp-content/et-cache/27267/et-extra-dynamic-27267-late.css?ver=1687801555' as='style' media='all' onload="this.onload=null;this.rel='stylesheet'" />
+<link rel='stylesheet' id='extra-style-css' href='https://gnomestew.com/wp-content/themes/gnomestew2016/style.css?ver=4.21.1' type='text/css' media='all' />
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-73301609-1' id='google_gtagjs-js' async></script>
+<script type='text/javascript' id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["gnomestew.com"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-73301609-1", {"anonymize_ip":true});
+gtag("config", "G-F1BJGX2GPC");
+</script>
+
+<!-- End Google Analytics snippet added by Site Kit -->
+<link rel="https://api.w.org/" href="https://gnomestew.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://gnomestew.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://gnomestew.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.2" />
+<link rel='shortlink' href='https://gnomestew.com/40-year-retrospective/' />
+<meta name="generator" content="Site Kit by Google 1.105.0" /><script src="https://www.google.com/recaptcha/api.js?hl=en_US" async defer></script>
+<style>@font-face {
+			font-family: 'Libre Franklin Extra Bold';
+			src: url('https://gnomestew.com/wp-content/plugins/patreon-connect/assets/fonts/librefranklin-extrabold-webfont.woff2') format('woff2'),
+				 url('https://gnomestew.com/wp-content/plugins/patreon-connect/assets/fonts/librefranklin-extrabold-webfont.woff') format('woff');
+			font-weight: bold;
+			}</style><style type="text/css" id="et-social-custom-css">
+				 
+			</style><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1" /><style type="text/css" id="extra-custom-background-css">
+body.custom-background { background-image: url('https://www.gnomestew.com/wp-content/uploads/2016/04/vsgrey.jpg'); background-repeat: repeat; background-position: top center; background-attachment: fixed; }
+</style>
+<link rel="icon" href="https://gnomestew.com/wp-content/uploads/2016/04/cropped-cropped-gssiteicon-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://gnomestew.com/wp-content/uploads/2016/04/cropped-cropped-gssiteicon.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://gnomestew.com/wp-content/uploads/2016/04/cropped-cropped-gssiteicon.png" />
+<meta name="msapplication-TileImage" content="https://gnomestew.com/wp-content/uploads/2016/04/cropped-cropped-gssiteicon.png" />
+<style id="et-extra-customizer-global-cached-inline-styles">.widget_et_recent_tweets .widget_list a,.widget_et_recent_tweets .et-extra-icon,.widget_et_recent_tweets .widget-footer .et-extra-social-icon,.widget_et_recent_tweets .widget-footer .et-extra-social-icon::before,.project-details .project-details-title,.et_filterable_portfolio .filterable_portfolio_filter a.current,.et_extra_layout .et_pb_extra_column_main .et_pb_column .module-head h1,.et_pb_extra_column .module-head h1,#portfolio_filter a.current,.woocommerce div.product div.summary .product_meta a,.woocommerce-page div.product div.summary .product_meta a,.et_pb_widget.woocommerce .product_list_widget li .amount,.et_pb_widget li a:hover,.et_pb_widget.woocommerce .product_list_widget li a:hover,.et_pb_widget.widget_et_recent_videos .widget_list .title:hover,.et_pb_widget.widget_et_recent_videos .widget_list .title.active,.woocommerce .woocommerce-info:before{color:#990100}.single .score-bar,.widget_et_recent_reviews .review-breakdowns .score-bar,.et_pb_extra_module .posts-list article .post-thumbnail,.et_extra_other_module .posts-list article .post-thumbnail,.et_pb_widget .widget_list_portrait,.et_pb_widget .widget_list_thumbnail,.quote-format,.link-format,.audio-format .audio-wrapper,.paginated .pagination li.active,.score-bar,.review-summary-score-box,.post-footer .rating-stars #rating-stars img.star-on,.post-footer .rating-stars #rated-stars img.star-on,.author-box-module .author-box-avatar,.timeline-menu li.active a:before,.woocommerce div.product form.cart .button,.woocommerce div.product form.cart .button.disabled,.woocommerce div.product form.cart .button.disabled:hover,.woocommerce-page div.product form.cart .button,.woocommerce-page div.product form.cart .button.disabled,.woocommerce-page div.product form.cart .button.disabled:hover,.woocommerce div.product form.cart .read-more-button,.woocommerce-page div.product form.cart .read-more-button,.woocommerce div.product form.cart .post-nav .nav-links .button,.woocommerce-page div.product form.cart .post-nav .nav-links .button,.woocommerce .woocommerce-message,.woocommerce-page .woocommerce-message{background-color:#990100}#et-menu>li>ul,#et-menu li>ul,#et-menu>li>ul>li>ul,.et-top-search-primary-menu-item .et-top-search,.et_pb_module,.module,.page article,.authors-page .page,#timeline-sticky-header,.et_extra_other_module,.woocommerce .woocommerce-info{border-color:#990100}body{font-size:16px}h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{font-weight:bold;font-style:normal;text-transform:none;text-decoration:none}h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif}body{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif}a,a:visited,.post-content a,.et_pb_pagebuilder_layout .et_pb_blurb_container p a,.et_pb_pagebuilder_layout .et_pb_code a,.et_pb_pagebuilder_layout .et_pb_promo_description a,.et_pb_pagebuilder_layout .et_pb_newsletter_description a,.et_pb_pagebuilder_layout .et_pb_team_member_description>a,.et_pb_pagebuilder_layout .et_pb_pricing li a,.et_pb_pagebuilder_layout .et_pb_slide_content a,.et_pb_pagebuilder_layout .et_pb_tab a,.et_pb_pagebuilder_layout .et_pb_text a,.et_pb_pagebuilder_layout .et_pb_toggle_content a,.et_pb_pagebuilder_layout .et_pb_fullwidth_code a{color:#990100}body{color:rgba(0,0,0,0.82)}h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{color:#990100}#et-menu li{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif}#et-menu>li a,#et-menu>li.menu-item-has-children>a:after,#et-menu>li.mega-menu-featured>a:after,#et-extra-mobile-menu>li.mega-menu-featured>a:after{color:#ffffff}#main-header{background-color:#232323}#et-menu>li>ul,#et-menu li>ul,#et-menu>li>ul>li>ul,#et-mobile-navigation nav,.et-top-search-primary-menu-item .et-top-search{background-color:#3a3a3a}#et-menu li>ul li a,#et-menu li.mega-menu>ul>li>a,#et-menu .sub-menu li.mega-menu-featured>a:after,#et-menu .sub-menu li.menu-item-has-children>a:after,#et-extra-mobile-menu .sub-menu li.mega-menu-featured>a:after,#et-extra-mobile-menu li a,#et-menu li.mega-menu-featured>ul li .title,#et-extra-mobile-menu li.mega-menu-featured>ul li .title,#et-menu li.mega-menu-featured>ul li .featured-post h2,#et-extra-mobile-menu li.mega-menu-featured>ul li .featured-post h2,#et-menu li.mega-menu-featured>ul li .featured-post .post-meta a,#et-extra-mobile-menu li.mega-menu-featured>ul li .featured-post .post-meta a,#et-menu li.mega-menu-featured>ul li.menu-item .recent-list .recent-post .post-content .post-meta,#et-extra-mobile-menu li.mega-menu-featured>ul li.menu-item .recent-list .recent-post .post-content .post-meta,#et-menu li.mega-menu-featured>ul li.menu-item .recent-list .recent-post .post-content .post-meta a,#et-extra-mobile-menu li.mega-menu-featured>ul li.menu-item .recent-list .recent-post .post-content .post-meta a{color:#ffffff}#et-secondary-menu li,#et-secondary-menu li a{font-weight:bold;font-style:normal;text-transform:uppercase;text-decoration:none}#top-header{background-color:#3a3a3a}#et-secondary-menu a,#et-secondary-menu li.menu-item-has-children>a:after{color:#ffffff}#et-secondary-menu li a:hover,#et-secondary-menu>li>a:hover:before,#et-secondary-menu li.menu-item-has-children>a:hover:after,#et-secondary-menu li.current-menu-item>a{color:rgba(255,255,255,0.82)}#et-secondary-menu>li>a:hover:before{text-shadow:10px 0 rgba(255,255,255,0.82),-10px 0 rgba(255,255,255,0.82)}#et-secondary-nav #et-secondary-menu{background-color:#3a3a3a}#et-trending-label,.et-trending-post a{font-size:16.000000px}#et-trending-button{width:22.857143px;height:22.857143px}#et-trending-button span{width:22.857143px;height:2.285714px}#et-trending-button.toggled span:first-child{-webkit-transform:translateY(6.428571px) rotate(45deg);transform:translateY(6.428571px) rotate(45deg)}#et-trending-button.toggled span:last-child{-webkit-transform:translateY(-6.428571px) rotate(-45deg);transform:translateY(-6.428571px) rotate(-45deg)}header.header .et-trending-post a,header.header .et-trending-post a:visited{color:#ffffff}#et-info .et-cart,#et-info .et-cart:before,#et-info .et-top-search .et-search-field,#et-info .et-top-search .et-search-submit:before{font-size:16.000000px}#et-info .et-extra-social-icons .et-extra-icon{font-size:21.000000px;line-height:40.000000px;width:40.000000px;height:40.000000px}#et-info .et-cart{padding:12.000000px 13.333333px}#et-info .et-top-search .et-search-field{padding:9.000000px 13.333333px}#et-info .et-top-search .et-search-field{width:160.000000px}#et-info .et-top-search .et-search-submit:before{margin-top:-8.000000px}#et-info .et-cart span,#et-info .et-top-search .et-search-field{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif}#et-info .et-cart span,#et-info .et-top-search .et-search-field{font-weight:bold;font-style:normal;text-transform:uppercase;text-decoration:none}#et-info .et-top-search .et-search-field::-webkit-input-placeholder{font-weight:bold;font-style:normal;text-transform:uppercase;text-decoration:none}#et-info .et-top-search .et-search-field:-moz-placeholder{font-weight:bold;font-style:normal;text-transform:uppercase;text-decoration:none}#et-info .et-top-search .et-search-field::-moz-placeholder{font-weight:bold;font-style:normal;text-transform:uppercase;text-decoration:none}#et-info .et-top-search .et-search-field:-ms-input-placeholder{font-weight:bold;font-style:normal;text-transform:uppercase;text-decoration:none}#et-info .et-cart,#et-info .et-top-search .et-search-field,#et-info .et-extra-social-icons .et-extra-icon{background-color:rgba(58,58,58,0.35)}.et-fixed-header #et-menu>li a,.et-fixed-header #et-menu>li.menu-item-has-children>a:after,.et-fixed-header #et-menu>li.mega-menu-featured>a:after,.et-fixed-header #et-extra-mobile-menu>li.mega-menu-featured>a:after{color:#ffffff}.et-fixed-header #main-header{background-color:#232323}#page-container .button,#page-container button,#page-container button[type="submit"],#page-container input[type="submit"],#page-container input[type="reset"],#page-container input[type="button"],.read-more-button,.comment-body .comment_area .comment-content .reply-container .comment-reply-link,.widget_tag_cloud a,.widget_tag_cloud a:visited,.post-nav .nav-links .button,a.read-more-button,a.read-more-button:visited,#footer .widget_tag_cloud a,#footer .widget_tag_cloud a:visited,#footer a.read-more-button,#footer a.read-more-button:visited,#footer .button,#footer button,#footer button[type="submit"],#footer input[type="submit"],#footer input[type="reset"],#footer input[type="button"],.et_pb_button{color:#ffffff}#page-container .button,#page-container button,#page-container button[type="submit"],#page-container input[type="submit"],#page-container input[type="reset"],#page-container input[type="button"],.read-more-button,.comment-body .comment_area .comment-content .reply-container .comment-reply-link,.widget_tag_cloud a,.widget_tag_cloud a:visited,.post-nav .nav-links .button,a.read-more-button,a.read-more-button:visited,#footer .widget_tag_cloud a,#footer .widget_tag_cloud a:visited,#footer a.read-more-button,#footer a.read-more-button:visited,#footer .button,#footer button,#footer button[type="submit"],#footer input[type="submit"],#footer input[type="reset"],#footer input[type="button"],.et_pb_button{background-color:#990100}#page-container .button,#page-container button,#page-container button[type="submit"],#page-container input[type="submit"],#page-container input[type="reset"],#page-container input[type="button"],.read-more-button,.comment-body .comment_area .comment-content .reply-container .comment-reply-link,.widget_tag_cloud a,.widget_tag_cloud a:visited,.post-nav .nav-links .button,a.read-more-button,a.read-more-button:visited,#footer .widget_tag_cloud a,#footer .widget_tag_cloud a:visited,#footer a.read-more-button,#footer a.read-more-button:visited,#footer .button,#footer button,#footer button[type="submit"],#footer input[type="submit"],#footer input[type="reset"],#footer input[type="button"],.et_pb_button{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif}#page-container .button:hover,#page-container button:hover,#page-container button[type="submit"]:hover,#page-container input[type="submit"]:hover,#page-container input[type="reset"]:hover,#page-container input[type="button"]:hover,.read-more-button:hover,.comment-body .comment_area .comment-content .reply-container .comment-reply-link:hover,.widget_tag_cloud a:hover,.widget_tag_cloud a:visited:hover,.post-nav .nav-links .button:hover,a.read-more-button:hover,a.read-more-button:visited:hover,#footer .widget_tag_cloud a:hover,#footer .widget_tag_cloud a:visited:hover,#footer a.read-more-button:hover,#footer a.read-more-button:visited:hover,#footer .button:hover,#footer button:hover,#footer button[type="submit"]:hover,#footer input[type="submit"]:hover,#footer input[type="reset"]:hover,#footer input[type="button"]:hover,.et_pb_button:hover{color:#ffffff}#page-container .button:hover,#page-container button:hover,#page-container button[type="submit"]:hover,#page-container input[type="submit"]:hover,#page-container input[type="reset"]:hover,#page-container input[type="button"]:hover,.read-more-button:hover,.comment-body .comment_area .comment-content .reply-container .comment-reply-link:hover,.widget_tag_cloud a:hover,.widget_tag_cloud a:visited:hover,.post-nav .nav-links .button:hover,a.read-more-button:hover,a.read-more-button:visited:hover,#footer .widget_tag_cloud a:hover,#footer .widget_tag_cloud a:visited:hover,#footer a.read-more-button:hover,#footer a.read-more-button:visited:hover,#footer .button:hover,#footer button:hover,#footer button[type="submit"]:hover,#footer input[type="submit"]:hover,#footer input[type="reset"]:hover,#footer input[type="button"]:hover,.et_pb_button:hover{background-color:#3a3a3a}@media only screen and (min-width:768px){#main-header .logo{height:93.75px;margin:15.625px 0}.header.left-right #et-navigation>ul>li>a{padding-bottom:54.5px}}@media only screen and (min-width:768px){.et-fixed-header #main-header .logo{height:45px;margin:7.5px 0}.et-fixed-header .header.left-right #et-navigation>ul>li>a{padding-bottom:22px}}.big-red-button a{color:#fff!important}blockquote{font-weight:400}.greybackground{background:rgb(222,222,222)}.conventionrowholder .et_pb_column_4_4 .et_pb_widget{width:100%!important}.conventionrowholder .et_pb_column_4_4 .et_pb_module{border:none!important;padding:0px!important;box-shadow:none}#execphp-10{box-shadow:none}#execphp-11 .widgettitle{display:none}#execphp-11,#execphp-11.et_pb_widget,#execphp-11 .submenu,#execphp-11 ul{background:transparent!important}#et-navigation .mega-menu>ul>li.authorcolumn{-ms-flex-preferred-size:50%;flex-basis:50%;width:50%;padding:0 20px}@media screen and (min-width:600px){ul.et_social_icons_container li{width:23%!important;margin:0 1% 1% 0!important}.et_monarch .et_social_autowidth li{margin:0 1% 1% 0!important;}}#footer .et_pb_widget li{border-bottom:none;padding:15px 0;height:120px}.columns2{column-count:2}.columns3{column-count:3}ul li{break-inside:avoid-column}@media screen and (max-width:792px){.columns2{column-count:1}.columns3{column-count:1}}.width50per{width:48%;margin:1%;float:left}.width30per{width:31%;margin:1%;float:left}@media screen and (max-width:792px){.width50per{width:98%;margin:1%}.width30per{width:98%;margin:1%}}.post-wrap h1,.post-wrap h2,.post-wrap h3,.post-wrap h4,.post-wrap h5,.post-wrap h6{margin-top:30px;padding-bottom:0px}</style>
+<!-- START - Open Graph and Twitter Card Tags 3.3.0 -->
+ <!-- Facebook Open Graph -->
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:site_name" content="Gnome Stew"/>
+  <meta property="og:title" content="Gnome Stew"/>
+  <meta property="og:url" content="https://gnomestew.com/"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:description" content="The Gaming Blog"/>
+  <meta property="article:publisher" content="https://facebook.com/gnomestew"/>
+ <!-- Google+ / Schema.org -->
+  <meta itemprop="name" content="Gnome Stew"/>
+  <meta itemprop="headline" content="Gnome Stew"/>
+  <meta itemprop="description" content="The Gaming Blog"/>
+  <link rel="publisher" href="https://plus.google.com/+gnomestew"/>
+  <!--<meta itemprop="publisher" content="Gnome Stew"/>--> <!-- To solve: The attribute publisher.itemtype has an invalid value -->
+ <!-- Twitter Cards -->
+  <meta name="twitter:title" content="Gnome Stew"/>
+  <meta name="twitter:url" content="https://gnomestew.com/"/>
+  <meta name="twitter:description" content="The Gaming Blog"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:site" content="@https://twitter.com/gnomestew"/>
+ <!-- SEO -->
+  <link rel="canonical" href="https://gnomestew.com/"/>
+  <meta name="description" content="The Gaming Blog"/>
+  <meta name="publisher" content="Gnome Stew"/>
+ <!-- Misc. tags -->
+ <!-- is_home -->
+<!-- END - Open Graph and Twitter Card Tags 3.3.0 -->
+	
+	
+ 
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet"> 
+</head>
+<body class="blog custom-background chrome windows wp-accessibility-helper accessibility-contrast_mode_on wah_fstype_script accessibility-remove-styles-setup accessibility-underline-setup accessibility-location-right et_monarch et_extra et_extra_layout et_fixed_nav et_smooth_scroll et_pb_gutters3 et_primary_nav_dropdown_animation_fadeInTop et_secondary_nav_dropdown_animation_fadeInRight with_sidebar with_sidebar_right et_includes_sidebar et-db">
+
+    
+    
+	<div id="page-container">
+				<!-- Header -->
+		<header class="header left-right">
+						<!-- #top-header -->
+			<div id="top-header" style="">
+				<div class="container">
+
+					<!-- Secondary Nav -->
+											<div id="et-secondary-nav" class="et-trending">
+						
+							<!-- ET Trending -->
+							<div id="et-trending">
+
+								<!-- ET Trending Button -->
+								<a id="et-trending-button" href="#" title="">
+									<span></span>
+									<span></span>
+									<span></span>
+								</a>
+
+								<!-- ET Trending Label -->
+								<h4 id="et-trending-label">
+									TRENDING:								</h4>
+
+								<!-- ET Trending Post Loop -->
+								<div id='et-trending-container'>
+																											<div id="et-trending-post-50663" class="et-trending-post et-trending-latest">
+											<a href="https://gnomestew.com/campaign-prep-with-chatgpt/">Campaign Prep With ChatGPT</a>
+										</div>
+																			<div id="et-trending-post-50548" class="et-trending-post">
+											<a href="https://gnomestew.com/problems-not-solutions/">Problems not Solutions</a>
+										</div>
+																			<div id="et-trending-post-50226" class="et-trending-post">
+											<a href="https://gnomestew.com/a-review-of-hasbro-dicelings/">A Review of Hasbro Dicelings</a>
+										</div>
+																			<div id="et-trending-post-51220" class="et-trending-post">
+											<a href="https://gnomestew.com/roll20-updates-first-impression/">Roll20 Updates First Impression</a>
+										</div>
+																			<div id="et-trending-post-51181" class="et-trending-post">
+											<a href="https://gnomestew.com/a-question-of-character-voices/">A Question of Character Voices</a>
+										</div>
+																			<div id="et-trending-post-51244" class="et-trending-post">
+											<a href="https://gnomestew.com/spice-up-encounters-with-flavor-rolls/">Spice Up Encounters with Flavor Rolls</a>
+										</div>
+																			<div id="et-trending-post-50975" class="et-trending-post">
+											<a href="https://gnomestew.com/narrow-and-broad-games/">Narrow and Broad Games</a>
+										</div>
+																			<div id="et-trending-post-50442" class="et-trending-post">
+											<a href="https://gnomestew.com/plan-out-your-campaign-by-using-only-one-word-gm-tips/">Plan Out Your Campaign by Using Only One Word &#8211; G...</a>
+										</div>
+																			<div id="et-trending-post-50900" class="et-trending-post">
+											<a href="https://gnomestew.com/run-your-campaign-like-a-romance-novel/">Run Your Campaign Like a Romance Novel</a>
+										</div>
+																			<div id="et-trending-post-51198" class="et-trending-post">
+											<a href="https://gnomestew.com/worldbuilding-through-oneshots/">Worldbuilding Through Oneshots!</a>
+										</div>
+																									</div>
+							</div>
+							
+												</div>
+					
+					<!-- #et-info -->
+					<div id="et-info">
+
+						
+						<!-- .et-extra-social-icons -->
+						<ul class="et-extra-social-icons" style="">
+																																														<li class="et-extra-social-icon facebook">
+									<a href="https://www.facebook.com/gnomestew" class="et-extra-icon et-extra-icon-background-hover et-extra-icon-facebook"></a>
+								</li>
+																																															<li class="et-extra-social-icon twitter">
+									<a href="https://twitter.com/gnomestew" class="et-extra-icon et-extra-icon-background-hover et-extra-icon-twitter"></a>
+								</li>
+																																																																																																																																																																																																										<li class="et-extra-social-icon instagram">
+									<a href="https://instagram.com" class="et-extra-icon et-extra-icon-background-hover et-extra-icon-instagram"></a>
+								</li>
+																																																																																																																																												<li class="et-extra-social-icon rss">
+									<a href="https://gnomestew.com/feed/" class="et-extra-icon et-extra-icon-background-hover et-extra-icon-rss"></a>
+								</li>
+																																																																																																																																																																																																																																																																																																												</ul>
+						
+						<!-- .et-top-search -->
+												<div class="et-top-search" style="">
+							<form role="search" class="et-search-form" method="get" action="https://gnomestew.com/">
+			<input type="search" class="et-search-field" placeholder="Search" value="" name="s" title="Search for:" />
+			<button class="et-search-submit"></button>
+		</form>						</div>
+						
+						<!-- cart -->
+											</div>
+				</div><!-- /.container -->
+			</div><!-- /#top-header -->
+
+			
+			<!-- Main Header -->
+			<div id="main-header-wrapper">
+				<div id="main-header" data-fixed-height="60">
+					<div class="container">
+					<!-- ET Ad -->
+						
+						
+						<!-- Logo -->
+						<a class="logo" href="https://gnomestew.com/" data-fixed-height="75">
+							<img src="https://www.gnomestew.com/images/GS2016LogoWhiteText.png" alt="Gnome Stew" id="logo" />
+						</a>
+
+						
+						<!-- ET Navigation -->
+						<div id="et-navigation" class="">
+							<ul id="et-menu" class="nav"><li id="menu-item-27324" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children mega-menu menu-item-has-children mega-menu-cols menu-item-27324"><a href="https://gnomestew.com/archive/">Articles</a>
+<ul class="sub-menu">
+	<li id="menu-item-41681" class="mmcheader menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-41681"><a href="#">Article Archives</a>
+	<ul class="sub-menu">
+		<li id="menu-item-27378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27378"><a href="https://gnomestew.com/timeline/">Article Timeline</a></li>
+		<li id="menu-item-27753" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27753"><a href="https://gnomestew.com/archive/">Article Archive</a></li>
+		<li id="menu-item-32176" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32176"><a href="https://gnomestew.com/gniblets/">Gniblets &#8211; Bite Sized Articles</a></li>
+	</ul>
+</li>
+	<li id="menu-item-27347" class="mmcheader menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27347"><a href="#">Article Tools</a>
+	<ul class="sub-menu">
+		<li id="menu-item-37608" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37608"><a>Article RSS Feed</a></li>
+		<li id="menu-item-37609" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37609"><a href="https://misdirectedmark.com/category/gnomecast/feed/">Gnomecast RSS Feed</a></li>
+		<li id="menu-item-27750" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27750"><a href="https://gnomestew.com/random">Random Article</a></li>
+		<li id="menu-item-27313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27313"><a href="https://gnomestew.com/subscribe/">Subscribe</a></li>
+	</ul>
+</li>
+	<li id="menu-item-27387" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27387"><a href="#">By Category</a>
+	<ul class="sub-menu">
+		<li id="menu-item-32177" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32177"><a href="https://gnomestew.com/gniblets/">Gniblets &#8211; Bite Sized Articles</a></li>
+		<li id="menu-item-27388" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27388"><a href="https://gnomestew.com/category/editorials/">Editorials</a></li>
+		<li id="menu-item-27389" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27389"><a href="https://gnomestew.com/category/game-making/">Game Making</a></li>
+		<li id="menu-item-27390" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27390"><a href="https://gnomestew.com/category/game-mastering/">Game Mastering</a></li>
+		<li id="menu-item-27391" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27391"><a href="https://gnomestew.com/category/general/">General</a></li>
+		<li id="menu-item-32404" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32404"><a href="https://gnomestew.com/category/gnomecast/">Gnomecast</a></li>
+		<li id="menu-item-27392" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27392"><a href="https://gnomestew.com/category/news/">News</a></li>
+		<li id="menu-item-27393" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27393"><a href="https://gnomestew.com/category/player-perspective/">Player Perspective</a></li>
+		<li id="menu-item-27394" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27394"><a href="https://gnomestew.com/category/reviews/">Reviews</a></li>
+		<li id="menu-item-27395" class="treasuretablescategory menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27395"><a href="https://gnomestew.com/category/treasuretables/">Treasure Tables</a></li>
+		<li id="menu-item-27748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27748"><a href="https://gnomestew.com/categories/">All Categories List</a></li>
+	</ul>
+</li>
+	<li id="menu-item-27346" class="mmcheader authorcolumn menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27346"><a href="#">By Author</a>
+	<ul class="sub-menu">
+		<li id="menu-item-41548" class="authormenu menu-item menu-item-type-custom menu-item-object-custom menu-item-41548"><div id="execphp-11" class="et_pb_widget widget_execphp amr_widget"><h4 class="widgettitle">List of All Authors</h4>			<div class="execphpwidget">
+            <ul class="submenu authormenu">
+                                
+        <li id="menu-item-27349" >
+
+                <li id="1558" class="menu-item menu-item-type-custom menu-item-object-custom" data-wahfont="14" role="link">
+                        <a href="https://gnomestew.com/author/orikes/" class="widget_list_author">
+Angela Murray
+                    </a>
+                   
+                </li>
+                                
+        <li id="menu-item-27349" >
+
+                <li id="5435" class="menu-item menu-item-type-custom menu-item-object-custom" data-wahfont="14" role="link">
+                        <a href="https://gnomestew.com/author/clight101/" class="widget_list_author">
+Chris Sniezak
+                    </a>
+                   
+                </li>
+                                
+        <li id="menu-item-27349" >
+
+                <li id="14173" class="menu-item menu-item-type-custom menu-item-object-custom" data-wahfont="14" role="link">
+                        <a href="https://gnomestew.com/author/jtevans/" class="widget_list_author">
+J.T. Evans
+                    </a>
+                   
+                </li>
+                                
+        <li id="menu-item-27349" >
+
+                <li id="2317" class="menu-item menu-item-type-custom menu-item-object-custom" data-wahfont="14" role="link">
+                        <a href="https://gnomestew.com/author/knighterrantjr/" class="widget_list_author">
+Jared Rascher
+                    </a>
+                   
+                </li>
+                                
+        <li id="menu-item-27349" >
+
+                <li id="1556" class="menu-item menu-item-type-custom menu-item-object-custom" data-wahfont="14" role="link">
+                        <a href="https://gnomestew.com/author/arcadian/" class="widget_list_author">
+John Arcadian
+                    </a>
+                   
+                </li>
+                                
+        <li id="menu-item-27349" >
+
+                <li id="14514" class="menu-item menu-item-type-custom menu-item-object-custom" data-wahfont="14" role="link">
+                        <a href="https://gnomestew.com/author/loricsigety/" class="widget_list_author">
+Lori Caskey-Sigety
+                    </a>
+                   
+                </li>
+                                
+        <li id="menu-item-27349" >
+
+                <li id="9" class="menu-item menu-item-type-custom menu-item-object-custom" data-wahfont="14" role="link">
+                        <a href="https://gnomestew.com/author/rick_twa/" class="widget_list_author">
+Matthew J. Neagley
+                    </a>
+                   
+                </li>
+                                
+        <li id="menu-item-27349" >
+
+                <li id="89" class="menu-item menu-item-type-custom menu-item-object-custom" data-wahfont="14" role="link">
+                        <a href="https://gnomestew.com/author/spenser/" class="widget_list_author">
+Old Man Logan
+                    </a>
+                   
+                </li>
+                                
+        <li id="menu-item-27349" >
+
+                <li id="11" class="menu-item menu-item-type-custom menu-item-object-custom" data-wahfont="14" role="link">
+                        <a href="https://gnomestew.com/author/dnaphil/" class="widget_list_author">
+Phil Vecchione
+                    </a>
+                   
+                </li>
+                                
+        <li id="menu-item-27349" >
+
+                <li id="14857" class="menu-item menu-item-type-custom menu-item-object-custom" data-wahfont="14" role="link">
+                        <a href="https://gnomestew.com/author/podcast-gnome/" class="widget_list_author">
+Poddy Gnomington
+                    </a>
+                   
+                </li>
+                                
+        <li id="menu-item-27349" >
+
+                <li id="14166" class="menu-item menu-item-type-custom menu-item-object-custom" data-wahfont="14" role="link">
+                        <a href="https://gnomestew.com/author/senda/" class="widget_list_author">
+Senda Linaugh
+                    </a>
+                   
+                </li>
+                                
+        <li id="menu-item-27349" >
+
+                <li id="14944" class="menu-item menu-item-type-custom menu-item-object-custom" data-wahfont="14" role="link">
+                        <a href="https://gnomestew.com/author/tomasgimenezr/" class="widget_list_author">
+Tomas Gimenez Rioja
+                    </a>
+                   
+                </li>
+                                
+        <li id="menu-item-27349" >
+
+                <li id="4" class="menu-item menu-item-type-custom menu-item-object-custom" data-wahfont="14" role="link">
+                        <a href="https://gnomestew.com/author/carolina/" class="widget_list_author">
+Troy E. Taylor
+                    </a>
+                   
+                </li>
+                <li><a href="https://gnomestew.com/meet-the-gnomes/#gnomesemeritus">Articles by Gnomes Emeritus</a> </li>
+<li><a href="https://gnomestew.com/guest-contributors/">Articles By Guest Contributors</a></li>
+            </ul>
+</div>
+		</div> <!-- end .et_pb_widget --></li>
+	</ul>
+</li>
+	<li id="menu-item-28613" class="nodisplay menu-item menu-item-type-custom menu-item-object-custom menu-item-28613"><a href="#">#</a></li>
+</ul>
+</li>
+<li id="menu-item-27304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children mega-menu menu-item-has-children mega-menu-cols menu-item-27304"><a href="https://gnomestew.com/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-35918" class="mmcheader menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-35918"><a href="#">The Gnomes!</a>
+	<ul class="sub-menu">
+		<li id="menu-item-29412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29412"><a href="https://gnomestew.com/thank-you-patrons/">Thank You Patrons!</a></li>
+		<li id="menu-item-27397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27397"><a href="https://gnomestew.com/about/">About Gnome Stew</a></li>
+		<li id="menu-item-27309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27309"><a href="https://gnomestew.com/meet-the-gnomes/">Meet the Gnomes</a></li>
+		<li id="menu-item-41683" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41683"><a href="https://gnomestew.com/guest-contributors/">Guest Contributors</a></li>
+		<li id="menu-item-35917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35917"><a href="https://gnomestew.com/gnomespotting/">Gnomespotting &#8211; Gnomes at Conventions!</a></li>
+	</ul>
+</li>
+	<li id="menu-item-35919" class="mmcheader menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-35919"><a href="#">The Site</a>
+	<ul class="sub-menu">
+		<li id="menu-item-27715" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27715"><a href="https://gnomestew.com/about/#awards">Awards</a></li>
+		<li id="menu-item-27314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27314"><a href="https://gnomestew.com/testimonials-smart-sexy-famous-people-love-gnome-stew/">Testimonials</a></li>
+		<li id="menu-item-27308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27308"><a href="https://gnomestew.com/gnome-stew-in-other-languages/">Gnome Stew in Other Languages</a></li>
+		<li id="menu-item-27730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27730"><a href="https://gnomestew.com/subscribe/">Subscribe</a></li>
+		<li id="menu-item-27734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27734"><a href="https://gnomestew.com/policies/">Policies</a></li>
+		<li id="menu-item-47409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47409"><a href="https://gnomestew.com/code-of-conduct/">Code of Conduct</a></li>
+	</ul>
+</li>
+	<li id="menu-item-27316" class="mmcheader menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27316"><a href="#">Tools</a>
+	<ul class="sub-menu">
+		<li id="menu-item-27410" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27410"><a href="https://gnomestew.com/game-mastering/tools-for-gms/gnomenclature-a-diminutive-rpg-glossary/">Gnomenclature</a></li>
+		<li id="menu-item-27660" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27660"><a href="https://gnomestew.com/random">Random Article</a></li>
+		<li id="menu-item-27398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27398"><a href="https://gnomestew.com/link-love/">Link Love</a></li>
+		<li id="menu-item-27401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27401"><a href="https://gnomestew.com/gnome-stew-paper-miniature-maker/">Gnome Stew Paper Miniature Maker</a></li>
+		<li id="menu-item-27311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27311"><a href="https://gnomestew.com/recipe-for-gnome-stew-2/">Recipe for Gnome Stew</a></li>
+	</ul>
+</li>
+	<li id="menu-item-27306" class="mmcheader menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-27306"><a href="https://gnomestew.com/contact/">Contact</a>
+	<ul class="sub-menu">
+		<li id="menu-item-27719" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27719"><a href="https://gnomestew.com/contact/">Contact Us</a></li>
+		<li id="menu-item-27402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27402"><a href="https://gnomestew.com/write-for-gnome-stew/">Write for Gnome Stew</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-27317" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27317"><a href="https://gnomestew.com/gslogin">Login</a>
+<ul class="sub-menu">
+	<li id="menu-item-27723" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27723"><a href="https://gnomestew.com/gslogin/?action=register">Register</a></li>
+	<li id="menu-item-27318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27318"><a href="https://gnomestew.com/help/">Help</a></li>
+</ul>
+</li>
+<li id="menu-item-32825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32825"><a href="https://gnomestew.com/merch/">Merch</a></li>
+</ul>							<div id="et-mobile-navigation">
+			<span class="show-menu">
+				<div class="show-menu-button">
+					<span></span>
+					<span></span>
+					<span></span>
+				</div>
+				<p>Select Page</p>
+			</span>
+			<nav>
+			</nav>
+		</div> <!-- /#et-mobile-navigation -->						</div><!-- /#et-navigation -->
+					</div><!-- /.container -->
+				</div><!-- /#main-header -->
+			</div><!-- /#main-header-wrapper -->
+
+		</header>
+
+				
+<div id="main-content">
+	<div class="container">
+		<div id="content-area" class="with_sidebar with_sidebar_right clearfix">
+			<div class="et_pb_extra_column_main">
+			    				
+					<div class="et_pb_section et_pb_section_0 et_section_regular et_section_transparent" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div  class="module featured-posts-slider-module et_pb_extra_module  et_pb_featured_posts_slider_0" data-breadcrumbs="enabled">
+	<div class="posts-slider-module-items carousel-items et_pb_slides">
+			<article id="post-51252" class="post carousel-item et_pb_slide post-51252 type-post status-publish format-standard has-post-thumbnail hentry category-general et-has-post-format-content et_post_format-et-post-format-standard" style="background-image: url(https://gnomestew.com/wp-content/uploads/2023/06/jtevans_40_years.jpg);">
+			<div class="post-content-box">
+				<div class="post-content">
+					<h3 class="entry-title"><a href="https://gnomestew.com/40-year-retrospective/">40 Year Retrospective</a></h3>
+					<div class="post-meta vcard">
+												<p>Posted by <a href="https://gnomestew.com/author/jtevans/" class="url fn" title="Posts by J.T. Evans" rel="author">J.T. Evans</a> | <span class="updated">Jul 17, 2023</span> | <a href="https://gnomestew.com/category/general/" rel="tag">General</a> | <a class="comments-link" href="https://gnomestew.com/40-year-retrospective/#comments">0 <span title="comment count" class="comment-bubble post-meta-icon"></span></a>					</div>
+				</div>
+			</div>
+		</article>
+			<article id="post-51277" class="post carousel-item et_pb_slide post-51277 type-post status-publish format-standard has-post-thumbnail hentry category-gming-advice tag-beginners tag-jerkwad-behavior tag-social-contract et-has-post-format-content et_post_format-et-post-format-standard" style="background-image: url(https://gnomestew.com/wp-content/uploads/2099/07/businesspeople-shaking-hands-1713344.jpg);">
+			<div class="post-content-box">
+				<div class="post-content">
+					<h3 class="entry-title"><a href="https://gnomestew.com/a-point-on-social-contracts/">A Point On Social Contracts</a></h3>
+					<div class="post-meta vcard">
+												<p>Posted by <a href="https://gnomestew.com/author/rick_twa/" class="url fn" title="Posts by Matthew J. Neagley" rel="author">Matthew J. Neagley</a> | <span class="updated">Jul 14, 2023</span> | <a href="https://gnomestew.com/category/game-mastering/gming-advice/" rel="tag">GMing Advice</a> | <a class="comments-link" href="https://gnomestew.com/a-point-on-social-contracts/#comments">0 <span title="comment count" class="comment-bubble post-meta-icon"></span></a>					</div>
+				</div>
+			</div>
+		</article>
+			<article id="post-51198" class="post carousel-item et_pb_slide post-51198 type-post status-publish format-standard has-post-thumbnail hentry category-tools-for-gms tag-campaign tag-collaborative-world-building tag-gm-advice tag-one-shot tag-prep tag-world-building et-has-post-format-content et_post_format-et-post-format-standard" style="background-image: url(https://gnomestew.com/wp-content/uploads/2023/06/GS-article-pic.png);">
+			<div class="post-content-box">
+				<div class="post-content">
+					<h3 class="entry-title"><a href="https://gnomestew.com/worldbuilding-through-oneshots/">Worldbuilding Through Oneshots!</a></h3>
+					<div class="post-meta vcard">
+												<p>Posted by <a href="https://gnomestew.com/author/prygarne/" class="url fn" title="Posts by Pod!" rel="author">Pod!</a> | <span class="updated">Jul 12, 2023</span> | <a href="https://gnomestew.com/category/game-mastering/tools-for-gms/" rel="tag">Tools for GMs</a> | <a class="comments-link" href="https://gnomestew.com/worldbuilding-through-oneshots/#comments">2 <span title="comment count" class="comment-bubble post-meta-icon"></span></a>					</div>
+				</div>
+			</div>
+		</article>
+			<article id="post-51236" class="post carousel-item et_pb_slide post-51236 type-post status-publish format-standard has-post-thumbnail hentry category-general et-has-post-format-content et_post_format-et-post-format-standard" style="background-image: url(https://gnomestew.com/wp-content/uploads/2023/06/Apocalypse-Keys-Cover-545x768.jpg);">
+			<div class="post-content-box">
+				<div class="post-content">
+					<h3 class="entry-title"><a href="https://gnomestew.com/apocalypse-keys-review/">Apocalypse Keys Review</a></h3>
+					<div class="post-meta vcard">
+												<p>Posted by <a href="https://gnomestew.com/author/knighterrantjr/" class="url fn" title="Posts by Jared Rascher" rel="author">Jared Rascher</a> | <span class="updated">Jul 10, 2023</span> | <a href="https://gnomestew.com/category/general/" rel="tag">General</a> | <a class="comments-link" href="https://gnomestew.com/apocalypse-keys-review/#comments">0 <span title="comment count" class="comment-bubble post-meta-icon"></span></a>					</div>
+				</div>
+			</div>
+		</article>
+			<article id="post-51244" class="post carousel-item et_pb_slide post-51244 type-post status-publish format-standard has-post-thumbnail hentry category-general et-has-post-format-content et_post_format-et-post-format-standard" style="background-image: url(https://gnomestew.com/wp-content/uploads/2023/06/AdobeStock_74610984x-1280x650.jpg);">
+			<div class="post-content-box">
+				<div class="post-content">
+					<h3 class="entry-title"><a href="https://gnomestew.com/spice-up-encounters-with-flavor-rolls/">Spice Up Encounters with Flavor Rolls</a></h3>
+					<div class="post-meta vcard">
+												<p>Posted by <a href="https://gnomestew.com/author/kane/" class="url fn" title="Posts by Kane Driscol" rel="author">Kane Driscol</a> | <span class="updated">Jul 7, 2023</span> | <a href="https://gnomestew.com/category/general/" rel="tag">General</a> | <a class="comments-link" href="https://gnomestew.com/spice-up-encounters-with-flavor-rolls/#comments">2 <span title="comment count" class="comment-bubble post-meta-icon"></span></a>					</div>
+				</div>
+			</div>
+		</article>
+			<article id="post-51260" class="post carousel-item et_pb_slide post-51260 type-post status-publish format-standard has-post-thumbnail hentry category-game-mastering category-gming-advice category-gnomecast category-tools-for-gms tag-large-parties tag-parties et-has-post-format-content et_post_format-et-post-format-standard" style="background-image: url(https://gnomestew.com/wp-content/uploads/2022/03/gnomecast_featured.jpg);">
+			<div class="post-content-box">
+				<div class="post-content">
+					<h3 class="entry-title"><a href="https://gnomestew.com/gnomecast-167-parties-like-the-ones-you-dance-at/">GNOMECAST #167 &#8211; Parties&#8230;like the ones...</a></h3>
+					<div class="post-meta vcard">
+												<p>Posted by <a href="https://gnomestew.com/author/podcast-gnome/" class="url fn" title="Posts by Poddy Gnomington" rel="author">Poddy Gnomington</a> | <span class="updated">Jul 5, 2023</span> | <a href="https://gnomestew.com/category/game-mastering/" rel="tag">Game Mastering</a>, <a href="https://gnomestew.com/category/game-mastering/gming-advice/" rel="tag">GMing Advice</a>, <a href="https://gnomestew.com/category/gnomecast/" rel="tag">Gnomecast</a>, <a href="https://gnomestew.com/category/game-mastering/tools-for-gms/" rel="tag">Tools for GMs</a> | <a class="comments-link" href="https://gnomestew.com/gnomecast-167-parties-like-the-ones-you-dance-at/#comments">0 <span title="comment count" class="comment-bubble post-meta-icon"></span></a>					</div>
+				</div>
+			</div>
+		</article>
+			</div>
+</div>
+
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_1">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				
+<div class="posts-blog-feed-module post-module et_pb_extra_module standard gshomepageblog et_pb_posts_blog_feed_standard_0 paginated et_pb_extra_module" style="border-color:#990100;" data-current_page="1" data-et_column_type="" data-show_featured_image="1" data-show_author="1" data-show_categories="1" data-show_date="1" data-show_rating="" data-show_more="1" data-show_comments="" data-date_format="M j, Y" data-posts_per_page="15" data-order="desc" data-orderby="date" data-category_id="0" data-content_length="excerpt" data-blog_feed_module_type="standard" data-hover_overlay_icon="">
+
+<div class="paginated_content">
+	<div class="paginated_page paginated_page_1 active"   data-columns>
+	<article id="post-51252" class="post et-format- post-51252 type-post status-publish format-standard has-post-thumbnail hentry category-general et-has-post-format-content et_post_format-et-post-format-standard">
+			<div class="header">
+									<div class="gshomepageblog-image">
+									   <a href="https://gnomestew.com/40-year-retrospective/" title="40 Year Retrospective" class="featured-image">
+				                        <img width="1000" height="600" src="https://gnomestew.com/wp-content/uploads/2023/06/jtevans_40_years.jpg" class="attachment-full size-full wp-post-image" alt="40 Years" decoding="async" loading="lazy" srcset="https://gnomestew.com/wp-content/uploads/2023/06/jtevans_40_years.jpg 1000w, https://gnomestew.com/wp-content/uploads/2023/06/jtevans_40_years-150x90.jpg 150w, https://gnomestew.com/wp-content/uploads/2023/06/jtevans_40_years-627x376.jpg 627w, https://gnomestew.com/wp-content/uploads/2023/06/jtevans_40_years-440x264.jpg 440w" sizes="(max-width: 1000px) 100vw, 1000px" /> <span class="et_pb_extra_overlay"></span>
+			                        </a>
+			                        </div>
+									</div>
+				<div class="post-content">
+						<h2 class="post-title entry-title"><a class="et-accent-color" style="color:#6dd69c;" href="https://gnomestew.com/40-year-retrospective/">40 Year Retrospective</a></h2>
+			    
+<div class="post-meta vcard">
+								<p>by <a href="https://gnomestew.com/author/jtevans/" class="url fn" title="Posts by J.T. Evans" rel="author">J.T. Evans</a> | <span class="updated">Jul 17, 2023</span> | <a href="https://gnomestew.com/category/general/" rel="tag">General</a> </p>
+			</div>
+			<div class="excerpt entry-summary">
+				<p>Let me set up my tale with some details: The Month: July, 1983 Location: Midland, TX The Weather: Cook Eggs On The Sidewalk Hot The Protagonist: J.T. Evans Protagonist&#8217;s Age: 10 years, 10 days Protagonist&#8217;s Mission: Navigate his Granny around town while she visits numerous garage sales...</p>
+
+						<a class="read-more-button" data-icon="" href="https://gnomestew.com/40-year-retrospective/">Read More</a>
+								</div>
+		</div>
+			</article>
+	<article id="post-51277" class="post et-format- post-51277 type-post status-publish format-standard has-post-thumbnail hentry category-gming-advice tag-beginners tag-jerkwad-behavior tag-social-contract et-has-post-format-content et_post_format-et-post-format-standard">
+			<div class="header">
+									<div class="gshomepageblog-image">
+									   <a href="https://gnomestew.com/a-point-on-social-contracts/" title="A Point On Social Contracts" class="featured-image">
+				                        <img width="1000" height="600" src="https://gnomestew.com/wp-content/uploads/2099/07/businesspeople-shaking-hands-1713344.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://gnomestew.com/wp-content/uploads/2099/07/businesspeople-shaking-hands-1713344.jpg 1000w, https://gnomestew.com/wp-content/uploads/2099/07/businesspeople-shaking-hands-1713344-150x90.jpg 150w, https://gnomestew.com/wp-content/uploads/2099/07/businesspeople-shaking-hands-1713344-627x376.jpg 627w, https://gnomestew.com/wp-content/uploads/2099/07/businesspeople-shaking-hands-1713344-440x264.jpg 440w" sizes="(max-width: 1000px) 100vw, 1000px" /> <span class="et_pb_extra_overlay"></span>
+			                        </a>
+			                        </div>
+									</div>
+				<div class="post-content">
+						<h2 class="post-title entry-title"><a class="et-accent-color" style="color:#8e6ecf;" href="https://gnomestew.com/a-point-on-social-contracts/">A Point On Social Contracts</a></h2>
+			    
+<div class="post-meta vcard">
+								<p>by <a href="https://gnomestew.com/author/rick_twa/" class="url fn" title="Posts by Matthew J. Neagley" rel="author">Matthew J. Neagley</a> | <span class="updated">Jul 14, 2023</span> | <a href="https://gnomestew.com/category/game-mastering/gming-advice/" rel="tag">GMing Advice</a> </p>
+			</div>
+			<div class="excerpt entry-summary">
+				<p>Matt briefly discusses social contracts and how they interact with bad behavior.</p>
+
+						<a class="read-more-button" data-icon="" href="https://gnomestew.com/a-point-on-social-contracts/">Read More</a>
+								</div>
+		</div>
+			</article>
+	<article id="post-51198" class="post et-format- post-51198 type-post status-publish format-standard has-post-thumbnail hentry category-tools-for-gms tag-campaign tag-collaborative-world-building tag-gm-advice tag-one-shot tag-prep tag-world-building et-has-post-format-content et_post_format-et-post-format-standard">
+			<div class="header">
+									<div class="gshomepageblog-image">
+									   <a href="https://gnomestew.com/worldbuilding-through-oneshots/" title="Worldbuilding Through Oneshots!" class="featured-image">
+				                        <img width="1000" height="600" src="https://gnomestew.com/wp-content/uploads/2023/06/GS-article-pic.png" class="attachment-full size-full wp-post-image" alt="Three gnomes playing a game at a table. Each gnome has a speech bubble with a picture illustrating what they are discussing. The first has a person riding a chicken, the second has two people fighting a dinosaur, the third has three stickmen holding swords." decoding="async" loading="lazy" srcset="https://gnomestew.com/wp-content/uploads/2023/06/GS-article-pic.png 1000w, https://gnomestew.com/wp-content/uploads/2023/06/GS-article-pic-150x90.png 150w, https://gnomestew.com/wp-content/uploads/2023/06/GS-article-pic-627x376.png 627w, https://gnomestew.com/wp-content/uploads/2023/06/GS-article-pic-440x264.png 440w" sizes="(max-width: 1000px) 100vw, 1000px" /> <span class="et_pb_extra_overlay"></span>
+			                        </a>
+			                        </div>
+									</div>
+				<div class="post-content">
+						<h2 class="post-title entry-title"><a class="et-accent-color" style="color:#5496d3;" href="https://gnomestew.com/worldbuilding-through-oneshots/">Worldbuilding Through Oneshots!</a></h2>
+			    
+<div class="post-meta vcard">
+								<p>by <a href="https://gnomestew.com/author/prygarne/" class="url fn" title="Posts by Pod!" rel="author">Pod!</a> | <span class="updated">Jul 12, 2023</span> | <a href="https://gnomestew.com/category/game-mastering/tools-for-gms/" rel="tag">Tools for GMs</a> </p>
+			</div>
+			<div class="excerpt entry-summary">
+				<p>A short chat about using oneshots for worldbuilding!</p>
+
+						<a class="read-more-button" data-icon="" href="https://gnomestew.com/worldbuilding-through-oneshots/">Read More</a>
+								</div>
+		</div>
+			</article>
+	<article id="post-51236" class="post et-format- post-51236 type-post status-publish format-standard has-post-thumbnail hentry category-general et-has-post-format-content et_post_format-et-post-format-standard">
+			<div class="header">
+									<div class="gshomepageblog-image">
+									   <a href="https://gnomestew.com/apocalypse-keys-review/" title="Apocalypse Keys Review" class="featured-image">
+				                        <img width="545" height="821" src="https://gnomestew.com/wp-content/uploads/2023/06/Apocalypse-Keys-Cover.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://gnomestew.com/wp-content/uploads/2023/06/Apocalypse-Keys-Cover.jpg 545w, https://gnomestew.com/wp-content/uploads/2023/06/Apocalypse-Keys-Cover-510x768.jpg 510w, https://gnomestew.com/wp-content/uploads/2023/06/Apocalypse-Keys-Cover-100x150.jpg 100w" sizes="(max-width: 545px) 100vw, 545px" /> <span class="et_pb_extra_overlay"></span>
+			                        </a>
+			                        </div>
+									</div>
+				<div class="post-content">
+						<h2 class="post-title entry-title"><a class="et-accent-color" style="color:#6dd69c;" href="https://gnomestew.com/apocalypse-keys-review/">Apocalypse Keys Review</a></h2>
+			    
+<div class="post-meta vcard">
+								<p>by <a href="https://gnomestew.com/author/knighterrantjr/" class="url fn" title="Posts by Jared Rascher" rel="author">Jared Rascher</a> | <span class="updated">Jul 10, 2023</span> | <a href="https://gnomestew.com/category/general/" rel="tag">General</a> </p>
+			</div>
+			<div class="excerpt entry-summary">
+				<p>Long-time readers of my reviews (and bless all of you) may have picked up that I love modern urban fantasy and monster-hunting stories and games. When I first saw Apocalypse Keys, I knew I would pick it up at some point. Initially, I understood that it was like the Hellboy/BPRD comics, where you...</p>
+
+						<a class="read-more-button" data-icon="" href="https://gnomestew.com/apocalypse-keys-review/">Read More</a>
+								</div>
+		</div>
+			</article>
+	<article id="post-51244" class="post et-format- post-51244 type-post status-publish format-standard has-post-thumbnail hentry category-general et-has-post-format-content et_post_format-et-post-format-standard">
+			<div class="header">
+									<div class="gshomepageblog-image">
+									   <a href="https://gnomestew.com/spice-up-encounters-with-flavor-rolls/" title="Spice Up Encounters with Flavor Rolls" class="featured-image">
+				                        <img width="1366" height="650" src="https://gnomestew.com/wp-content/uploads/2023/06/AdobeStock_74610984x.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://gnomestew.com/wp-content/uploads/2023/06/AdobeStock_74610984x.jpg 1366w, https://gnomestew.com/wp-content/uploads/2023/06/AdobeStock_74610984x-1024x487.jpg 1024w, https://gnomestew.com/wp-content/uploads/2023/06/AdobeStock_74610984x-150x71.jpg 150w, https://gnomestew.com/wp-content/uploads/2023/06/AdobeStock_74610984x-1080x514.jpg 1080w" sizes="(max-width: 1366px) 100vw, 1366px" /> <span class="et_pb_extra_overlay"></span>
+			                        </a>
+			                        </div>
+									</div>
+				<div class="post-content">
+						<h2 class="post-title entry-title"><a class="et-accent-color" style="color:#6dd69c;" href="https://gnomestew.com/spice-up-encounters-with-flavor-rolls/">Spice Up Encounters with Flavor Rolls</a></h2>
+			    
+<div class="post-meta vcard">
+								<p>by <a href="https://gnomestew.com/author/kane/" class="url fn" title="Posts by Kane Driscol" rel="author">Kane Driscol</a> | <span class="updated">Jul 7, 2023</span> | <a href="https://gnomestew.com/category/general/" rel="tag">General</a> </p>
+			</div>
+			<div class="excerpt entry-summary">
+				<p>By rolling on some specially-designed D4 tables, I can inject a few fresh twists into a scene whenever I need to spice things up and captivate my players again.</p>
+
+						<a class="read-more-button" data-icon="" href="https://gnomestew.com/spice-up-encounters-with-flavor-rolls/">Read More</a>
+								</div>
+		</div>
+			</article>
+	<article id="post-51260" class="post et-format- post-51260 type-post status-publish format-standard has-post-thumbnail hentry category-game-mastering category-gming-advice category-gnomecast category-tools-for-gms tag-large-parties tag-parties et-has-post-format-content et_post_format-et-post-format-standard">
+			<div class="header">
+									<div class="gshomepageblog-image">
+									   <a href="https://gnomestew.com/gnomecast-167-parties-like-the-ones-you-dance-at/" title="GNOMECAST #167 &#8211; Parties&#8230;like the ones you dance at" class="featured-image">
+				                        <img width="1000" height="600" src="https://gnomestew.com/wp-content/uploads/2022/03/gnomecast_featured.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://gnomestew.com/wp-content/uploads/2022/03/gnomecast_featured.jpg 1000w, https://gnomestew.com/wp-content/uploads/2022/03/gnomecast_featured-150x90.jpg 150w, https://gnomestew.com/wp-content/uploads/2022/03/gnomecast_featured-627x376.jpg 627w, https://gnomestew.com/wp-content/uploads/2022/03/gnomecast_featured-440x264.jpg 440w" sizes="(max-width: 1000px) 100vw, 1000px" /> <span class="et_pb_extra_overlay"></span>
+			                        </a>
+			                        </div>
+									</div>
+				<div class="post-content">
+						<h2 class="post-title entry-title"><a class="et-accent-color" style="color:#6dd69c;" href="https://gnomestew.com/gnomecast-167-parties-like-the-ones-you-dance-at/">GNOMECAST #167 &#8211; Parties&#8230;like the ones you dance at</a></h2>
+			    
+<div class="post-meta vcard">
+								<p>by <a href="https://gnomestew.com/author/podcast-gnome/" class="url fn" title="Posts by Poddy Gnomington" rel="author">Poddy Gnomington</a> | <span class="updated">Jul 5, 2023</span> | <a href="https://gnomestew.com/category/game-mastering/" rel="tag">Game Mastering</a>, <a href="https://gnomestew.com/category/game-mastering/gming-advice/" rel="tag">GMing Advice</a>, <a href="https://gnomestew.com/category/gnomecast/" rel="tag">Gnomecast</a>, <a href="https://gnomestew.com/category/game-mastering/tools-for-gms/" rel="tag">Tools for GMs</a> </p>
+			</div>
+			<div class="excerpt entry-summary">
+				<p>http://misdirectedmark.com/wp-content/uploads/2023/06/GC_167_Partiesliketheonesyoudanceat-Mixdown-1.mp3 We&#8217;re talking about parties. Not adventuring parties. Masquerades, balls, shindigs, gatherings, formal dances, ragers, raves, and festivals. Chris and Jared want to help you drop that...</p>
+
+						<a class="read-more-button" data-icon="" href="https://gnomestew.com/gnomecast-167-parties-like-the-ones-you-dance-at/">Read More</a>
+								</div>
+		</div>
+			</article>
+	<article id="post-51263" class="post et-format- post-51263 type-post status-publish format-standard has-post-thumbnail hentry category-game-mastering category-gming-advice tag-ad-lib tag-indie tag-prep tag-problem-solving tag-traditional-games et-has-post-format-content et_post_format-et-post-format-standard">
+			<div class="header">
+									<div class="gshomepageblog-image">
+									   <a href="https://gnomestew.com/your-problem-solving-space/" title="Your Problem-Solving Space" class="featured-image">
+				                        <img width="1280" height="960" src="https://gnomestew.com/wp-content/uploads/2023/06/puzzle-gda9f941c2_1280.jpg" class="attachment-full size-full wp-post-image" alt="A table with a number of puzzle pieces scattered on them as if someone is assembling the puzzle." decoding="async" loading="lazy" srcset="https://gnomestew.com/wp-content/uploads/2023/06/puzzle-gda9f941c2_1280.jpg 1280w, https://gnomestew.com/wp-content/uploads/2023/06/puzzle-gda9f941c2_1280-1024x768.jpg 1024w, https://gnomestew.com/wp-content/uploads/2023/06/puzzle-gda9f941c2_1280-150x113.jpg 150w, https://gnomestew.com/wp-content/uploads/2023/06/puzzle-gda9f941c2_1280-1080x810.jpg 1080w" sizes="(max-width: 1280px) 100vw, 1280px" /> <span class="et_pb_extra_overlay"></span>
+			                        </a>
+			                        </div>
+									</div>
+				<div class="post-content">
+						<h2 class="post-title entry-title"><a class="et-accent-color" style="color:#6dd69c;" href="https://gnomestew.com/your-problem-solving-space/">Your Problem-Solving Space</a></h2>
+			    
+<div class="post-meta vcard">
+								<p>by <a href="https://gnomestew.com/author/dnaphil/" class="url fn" title="Posts by Phil Vecchione" rel="author">Phil Vecchione</a> | <span class="updated">Jun 30, 2023</span> | <a href="https://gnomestew.com/category/game-mastering/" rel="tag">Game Mastering</a>, <a href="https://gnomestew.com/category/game-mastering/gming-advice/" rel="tag">GMing Advice</a> </p>
+			</div>
+			<div class="excerpt entry-summary">
+				<p>In a recent episode of Panda’s Talking Games, my co-host, Senda and I were talking about how much space GMs give for players to solve problems. Not space as in time, but in possible solutions to the problem. This got me thinking because, in my 40 years of GMing, I have tried a number of ways, and...</p>
+
+						<a class="read-more-button" data-icon="" href="https://gnomestew.com/your-problem-solving-space/">Read More</a>
+								</div>
+		</div>
+			</article>
+	<article id="post-51212" class="post et-format- post-51212 type-post status-publish format-standard has-post-thumbnail hentry category-game-mastering category-gming-advice et-has-post-format-content et_post_format-et-post-format-standard">
+			<div class="header">
+									<div class="gshomepageblog-image">
+									   <a href="https://gnomestew.com/modern-morale/" title="Modern Morale" class="featured-image">
+				                        <img width="1000" height="600" src="https://gnomestew.com/wp-content/uploads/2023/06/jtevans_modern_morale.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://gnomestew.com/wp-content/uploads/2023/06/jtevans_modern_morale.jpg 1000w, https://gnomestew.com/wp-content/uploads/2023/06/jtevans_modern_morale-150x90.jpg 150w, https://gnomestew.com/wp-content/uploads/2023/06/jtevans_modern_morale-627x376.jpg 627w, https://gnomestew.com/wp-content/uploads/2023/06/jtevans_modern_morale-440x264.jpg 440w" sizes="(max-width: 1000px) 100vw, 1000px" /> <span class="et_pb_extra_overlay"></span>
+			                        </a>
+			                        </div>
+									</div>
+				<div class="post-content">
+						<h2 class="post-title entry-title"><a class="et-accent-color" style="color:#6dd69c;" href="https://gnomestew.com/modern-morale/">Modern Morale</a></h2>
+			    
+<div class="post-meta vcard">
+								<p>by <a href="https://gnomestew.com/author/jtevans/" class="url fn" title="Posts by J.T. Evans" rel="author">J.T. Evans</a> | <span class="updated">Jun 28, 2023</span> | <a href="https://gnomestew.com/category/game-mastering/" rel="tag">Game Mastering</a>, <a href="https://gnomestew.com/category/game-mastering/gming-advice/" rel="tag">GMing Advice</a> </p>
+			</div>
+			<div class="excerpt entry-summary">
+				<p>In older editions of D&amp;D, there were checks for the monsters&#8217; morale. If a certain percentage of the monsters were killed or incapacitated, then they&#8217;d have to roll to see if they surrendered or tried to flee the scene of the battle. This could also be triggered if their leader (or...</p>
+
+						<a class="read-more-button" data-icon="" href="https://gnomestew.com/modern-morale/">Read More</a>
+								</div>
+		</div>
+			</article>
+	<article id="post-51220" class="post et-format- post-51220 type-post status-publish format-standard has-post-thumbnail hentry category-general category-reviews et-has-post-format-content et_post_format-et-post-format-standard">
+			<div class="header">
+									<div class="gshomepageblog-image">
+									   <a href="https://gnomestew.com/roll20-updates-first-impression/" title="Roll20 Updates First Impression" class="featured-image">
+				                        <img width="624" height="486" src="https://gnomestew.com/wp-content/uploads/2023/06/My-Roll20.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://gnomestew.com/wp-content/uploads/2023/06/My-Roll20.jpg 624w, https://gnomestew.com/wp-content/uploads/2023/06/My-Roll20-150x117.jpg 150w" sizes="(max-width: 624px) 100vw, 624px" /> <span class="et_pb_extra_overlay"></span>
+			                        </a>
+			                        </div>
+									</div>
+				<div class="post-content">
+						<h2 class="post-title entry-title"><a class="et-accent-color" style="color:#6dd69c;" href="https://gnomestew.com/roll20-updates-first-impression/">Roll20 Updates First Impression</a></h2>
+			    
+<div class="post-meta vcard">
+								<p>by <a href="https://gnomestew.com/author/knighterrantjr/" class="url fn" title="Posts by Jared Rascher" rel="author">Jared Rascher</a> | <span class="updated">Jun 26, 2023</span> | <a href="https://gnomestew.com/category/general/" rel="tag">General</a>, <a href="https://gnomestew.com/category/reviews/" rel="tag">Reviews</a> </p>
+			</div>
+			<div class="excerpt entry-summary">
+				<p>Like most people, there is a sharp contrast between my life before 2020 and after 2020. If you happened to read any of my articles before that time, you’ll notice several times where I mention that I wasn’t comfortable with VTTs and wasn’t likely to run games using that technology. Even before...</p>
+
+						<a class="read-more-button" data-icon="" href="https://gnomestew.com/roll20-updates-first-impression/">Read More</a>
+								</div>
+		</div>
+			</article>
+	<article id="post-51176" class="post et-format- post-51176 type-post status-publish format-standard has-post-thumbnail hentry category-general et-has-post-format-content et_post_format-et-post-format-standard">
+			<div class="header">
+									<div class="gshomepageblog-image">
+									   <a href="https://gnomestew.com/3-ways-to-find-your-new-favorite-rpg/" title="3 Ways to Find Your New Favorite RPG" class="featured-image">
+				                        <img width="1000" height="667" src="https://gnomestew.com/wp-content/uploads/2023/06/AdobeStock_296296462x.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://gnomestew.com/wp-content/uploads/2023/06/AdobeStock_296296462x.jpg 1000w, https://gnomestew.com/wp-content/uploads/2023/06/AdobeStock_296296462x-150x100.jpg 150w" sizes="(max-width: 1000px) 100vw, 1000px" /> <span class="et_pb_extra_overlay"></span>
+			                        </a>
+			                        </div>
+									</div>
+				<div class="post-content">
+						<h2 class="post-title entry-title"><a class="et-accent-color" style="color:#6dd69c;" href="https://gnomestew.com/3-ways-to-find-your-new-favorite-rpg/">3 Ways to Find Your New Favorite RPG</a></h2>
+			    
+<div class="post-meta vcard">
+								<p>by <a href="https://gnomestew.com/author/ajxman02/" class="url fn" title="Posts by Andrew Christman" rel="author">Andrew Christman</a> | <span class="updated">Jun 23, 2023</span> | <a href="https://gnomestew.com/category/general/" rel="tag">General</a> </p>
+			</div>
+			<div class="excerpt entry-summary">
+				<p>So, let’s say you are in the market for a new tabletop game. It could be that your current campaign has concluded and you want to try something new, it could be that you’re tired of playing in the same genre, or it could be that your go-to just isn’t quite as fun as it was at one point (this has...</p>
+
+						<a class="read-more-button" data-icon="" href="https://gnomestew.com/3-ways-to-find-your-new-favorite-rpg/">Read More</a>
+								</div>
+		</div>
+			</article>
+	<article id="post-51217" class="post et-format- post-51217 type-post status-publish format-standard has-post-thumbnail hentry category-game-mastering category-gming-advice category-gnomecast category-tools-for-gms tag-gm-advice tag-gnomecast tag-ogre tag-podcast tag-quantum tag-tools-not-rules et-has-post-format-content et_post_format-et-post-format-standard">
+			<div class="header">
+									<div class="gshomepageblog-image">
+									   <a href="https://gnomestew.com/the-quantum-ogre/" title="The Quantum Ogre" class="featured-image">
+				                        <img width="1000" height="600" src="https://gnomestew.com/wp-content/uploads/2022/03/gnomecast_featured.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://gnomestew.com/wp-content/uploads/2022/03/gnomecast_featured.jpg 1000w, https://gnomestew.com/wp-content/uploads/2022/03/gnomecast_featured-150x90.jpg 150w, https://gnomestew.com/wp-content/uploads/2022/03/gnomecast_featured-627x376.jpg 627w, https://gnomestew.com/wp-content/uploads/2022/03/gnomecast_featured-440x264.jpg 440w" sizes="(max-width: 1000px) 100vw, 1000px" /> <span class="et_pb_extra_overlay"></span>
+			                        </a>
+			                        </div>
+									</div>
+				<div class="post-content">
+						<h2 class="post-title entry-title"><a class="et-accent-color" style="color:#6dd69c;" href="https://gnomestew.com/the-quantum-ogre/">The Quantum Ogre</a></h2>
+			    
+<div class="post-meta vcard">
+								<p>by <a href="https://gnomestew.com/author/podcast-gnome/" class="url fn" title="Posts by Poddy Gnomington" rel="author">Poddy Gnomington</a> | <span class="updated">Jun 21, 2023</span> | <a href="https://gnomestew.com/category/game-mastering/" rel="tag">Game Mastering</a>, <a href="https://gnomestew.com/category/game-mastering/gming-advice/" rel="tag">GMing Advice</a>, <a href="https://gnomestew.com/category/gnomecast/" rel="tag">Gnomecast</a>, <a href="https://gnomestew.com/category/game-mastering/tools-for-gms/" rel="tag">Tools for GMs</a> </p>
+			</div>
+			<div class="excerpt entry-summary">
+				<p>http://misdirectedmark.com/wp-content/uploads/2023/06/GC_166_QuantamOgre_V01_CS_Final.mp3 It&#8217;s here. It&#8217;s there. It&#8217;s every bleeping where. Quantum Ogre. Quantum Ogre. Welcome to episode 166 of the Gnomecast where we talk about the thing that&#8217;s everywhere. The Quantum...</p>
+
+						<a class="read-more-button" data-icon="" href="https://gnomestew.com/the-quantum-ogre/">Read More</a>
+								</div>
+		</div>
+			</article>
+	<article id="post-51153" class="post et-format- post-51153 type-post status-publish format-standard has-post-thumbnail hentry category-tools-for-gms tag-5-room-dungeon tag-dungeon tag-dungeon-generation tag-topology et-has-post-format-content et_post_format-et-post-format-standard">
+			<div class="header">
+									<div class="gshomepageblog-image">
+									   <a href="https://gnomestew.com/the-twenty-one-forms-of-the-five-room-dungeon/" title="The Twenty-one Forms Of The Five Room Dungeon" class="featured-image">
+				                        <img width="1407" height="822" src="https://gnomestew.com/wp-content/uploads/2024/06/The-21-Forms.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://gnomestew.com/wp-content/uploads/2024/06/The-21-Forms.png 1407w, https://gnomestew.com/wp-content/uploads/2024/06/The-21-Forms-1024x598.png 1024w, https://gnomestew.com/wp-content/uploads/2024/06/The-21-Forms-150x88.png 150w, https://gnomestew.com/wp-content/uploads/2024/06/The-21-Forms-1080x631.png 1080w" sizes="(max-width: 1407px) 100vw, 1407px" /> <span class="et_pb_extra_overlay"></span>
+			                        </a>
+			                        </div>
+									</div>
+				<div class="post-content">
+						<h2 class="post-title entry-title"><a class="et-accent-color" style="color:#5496d3;" href="https://gnomestew.com/the-twenty-one-forms-of-the-five-room-dungeon/">The Twenty-one Forms Of The Five Room Dungeon</a></h2>
+			    
+<div class="post-meta vcard">
+								<p>by <a href="https://gnomestew.com/author/rick_twa/" class="url fn" title="Posts by Matthew J. Neagley" rel="author">Matthew J. Neagley</a> | <span class="updated">Jun 19, 2023</span> | <a href="https://gnomestew.com/category/game-mastering/tools-for-gms/" rel="tag">Tools for GMs</a> </p>
+			</div>
+			<div class="excerpt entry-summary">
+				<p>A decade-ish ago, I wrote an article entitled “The Nine Forms of the Five Room Dungeon”. The premise was simple: using specific rules of construction, there are only nine topologies to which a five room dungeon can conform. Ie: there are only nine five room dungeons (IF you follow those rules)....</p>
+
+						<a class="read-more-button" data-icon="" href="https://gnomestew.com/the-twenty-one-forms-of-the-five-room-dungeon/">Read More</a>
+								</div>
+		</div>
+			</article>
+	<article id="post-51181" class="post et-format- post-51181 type-post status-publish format-standard has-post-thumbnail hentry category-general et-has-post-format-content et_post_format-et-post-format-standard">
+			<div class="header">
+									<div class="gshomepageblog-image">
+									   <a href="https://gnomestew.com/a-question-of-character-voices/" title="A Question of Character Voices" class="featured-image">
+				                        <img width="1000" height="650" src="https://gnomestew.com/wp-content/uploads/2023/06/AdobeStock_602925220.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://gnomestew.com/wp-content/uploads/2023/06/AdobeStock_602925220.jpg 1000w, https://gnomestew.com/wp-content/uploads/2023/06/AdobeStock_602925220-150x98.jpg 150w" sizes="(max-width: 1000px) 100vw, 1000px" /> <span class="et_pb_extra_overlay"></span>
+			                        </a>
+			                        </div>
+									</div>
+				<div class="post-content">
+						<h2 class="post-title entry-title"><a class="et-accent-color" style="color:#6dd69c;" href="https://gnomestew.com/a-question-of-character-voices/">A Question of Character Voices</a></h2>
+			    
+<div class="post-meta vcard">
+								<p>by <a href="https://gnomestew.com/author/orikes/" class="url fn" title="Posts by Angela Murray" rel="author">Angela Murray</a> | <span class="updated">Jun 16, 2023</span> | <a href="https://gnomestew.com/category/general/" rel="tag">General</a> </p>
+			</div>
+			<div class="excerpt entry-summary">
+				<p>For an upcoming game, I’ve been working on a character that was born in Spain many centuries ago. As part of working up who she is, I have been pondering whether to try for an accent when roleplaying her conversations. This, of course, got me thinking about the murky waters of accents in RPGs, and...</p>
+
+						<a class="read-more-button" data-icon="" href="https://gnomestew.com/a-question-of-character-voices/">Read More</a>
+								</div>
+		</div>
+			</article>
+	<article id="post-51148" class="post et-format- post-51148 type-post status-publish format-standard has-post-thumbnail hentry category-game-mastering category-tools-for-gms et-has-post-format-content et_post_format-et-post-format-standard">
+			<div class="header">
+									<div class="gshomepageblog-image">
+									   <a href="https://gnomestew.com/a-simple-systemless-system-to-solve-story-somo/" title="A Simple Systemless System to Solve Story SOMO" class="featured-image">
+				                        <img width="1000" height="667" src="https://gnomestew.com/wp-content/uploads/2023/06/AdobeStock_382786804x.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://gnomestew.com/wp-content/uploads/2023/06/AdobeStock_382786804x.jpg 1000w, https://gnomestew.com/wp-content/uploads/2023/06/AdobeStock_382786804x-150x100.jpg 150w" sizes="(max-width: 1000px) 100vw, 1000px" /> <span class="et_pb_extra_overlay"></span>
+			                        </a>
+			                        </div>
+									</div>
+				<div class="post-content">
+						<h2 class="post-title entry-title"><a class="et-accent-color" style="color:#6dd69c;" href="https://gnomestew.com/a-simple-systemless-system-to-solve-story-somo/">A Simple Systemless System to Solve Story SOMO</a></h2>
+			    
+<div class="post-meta vcard">
+								<p>by <a href="https://gnomestew.com/author/soless/" class="url fn" title="Posts by Josh Storey" rel="author">Josh Storey</a> | <span class="updated">Jun 14, 2023</span> | <a href="https://gnomestew.com/category/game-mastering/" rel="tag">Game Mastering</a>, <a href="https://gnomestew.com/category/game-mastering/tools-for-gms/" rel="tag">Tools for GMs</a> </p>
+			</div>
+			<div class="excerpt entry-summary">
+				<p>S.O.M.O. (so•mo) | noun: Scared of Missing Out. A version of Fear of Missing Out that replaces the first word for a synonym so that the author of the blog article can maintain his alliterative title. I have a problem with my campaign prep, but if you have the same problem, there might be hope for...</p>
+
+						<a class="read-more-button" data-icon="" href="https://gnomestew.com/a-simple-systemless-system-to-solve-story-somo/">Read More</a>
+								</div>
+		</div>
+			</article>
+	<article id="post-51139" class="post et-format- post-51139 type-post status-publish format-standard has-post-thumbnail hentry category-reviews et-has-post-format-content et_post_format-et-post-format-standard">
+			<div class="header">
+									<div class="gshomepageblog-image">
+									   <a href="https://gnomestew.com/raiders-of-the-serpent-sea-players-guide-first-impression/" title="Raiders of the Serpent Sea Player&#8217;s Guide First Impression" class="featured-image">
+				                        <img width="624" height="784" src="https://gnomestew.com/wp-content/uploads/2023/06/Cover.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://gnomestew.com/wp-content/uploads/2023/06/Cover.jpg 624w, https://gnomestew.com/wp-content/uploads/2023/06/Cover-611x768.jpg 611w, https://gnomestew.com/wp-content/uploads/2023/06/Cover-119x150.jpg 119w" sizes="(max-width: 624px) 100vw, 624px" /> <span class="et_pb_extra_overlay"></span>
+			                        </a>
+			                        </div>
+									</div>
+				<div class="post-content">
+						<h2 class="post-title entry-title"><a class="et-accent-color" style="color:#7ac8cc;" href="https://gnomestew.com/raiders-of-the-serpent-sea-players-guide-first-impression/">Raiders of the Serpent Sea Player&#8217;s Guide First Impression</a></h2>
+			    
+<div class="post-meta vcard">
+								<p>by <a href="https://gnomestew.com/author/knighterrantjr/" class="url fn" title="Posts by Jared Rascher" rel="author">Jared Rascher</a> | <span class="updated">Jun 12, 2023</span> | <a href="https://gnomestew.com/category/reviews/" rel="tag">Reviews</a> </p>
+			</div>
+			<div class="excerpt entry-summary">
+				<p>This year has been moving fast, and your humble review gnome has really been having a hard time scheduling reviews for some of the really big projects out there. Turns out, while trying to keep up with life as well as multiple playtests for major projects, as well as major company faux pas that...</p>
+
+						<a class="read-more-button" data-icon="" href="https://gnomestew.com/raiders-of-the-serpent-sea-players-guide-first-impression/">Read More</a>
+								</div>
+		</div>
+			</article>
+</div><!-- /.paginated_page.paginated_page_1 -->
+</div><!-- /.paginated_content -->
+
+<span class="loader"><img src="https://gnomestew.com/wp-content/themes/Extra/images/pagination-loading.gif" alt="Loading" /></span>
+
+</div><!-- /.posts-blog-feed-module -->
+<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2 style="text-align: right;"><a href="http://www.gnomestew.com/archive/page/2/">Read Older Articles &gt;&gt;</a></h2></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>
+							</div>
+
+			<div class="et_pb_extra_column_sidebar">
+	<div id="execphp-9" class="et_pb_widget widget_execphp"><h4 class="widgettitle">It Came From The Stew Pot</h4>			<div class="execphpwidget"><div style="margin: 10px; ">
+<p>Written by a team of veteran Gamers and Gamemasters, Gnome Stew is a widely read gaming blog with multiple awards, ennies, and thousands of articles. We&#8217;re dedicated to helping gamers have more fun at the gaming table.</p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-37883" src="https://gnomestew.com/wp-content/uploads/2019/07/Ennies.png" alt="" width="797" height="368" /></p>
+</div>
+</div>
+		</div> <!-- end .et_pb_widget --><div id="execphp-7" class="et_pb_widget widget_execphp"><h4 class="widgettitle">What Are People Saying?</h4>			<div class="execphpwidget"><div style="margin: 10px; ">
+<p style="text-align: left;"><strong>What are people saying?</strong></p>
+<h4 style="text-align: center;"><strong>&#8220;fantastic blog for game masters, dungeon masters, and rpg fans&#8221;<br />
+</strong><br />
+<strong>Wil Wheaton, Geek and Sundry<br />
+</strong></h4>
+</div>
+</div>
+		</div> <!-- end .et_pb_widget -->
+		<div id="recent-posts-3" class="et_pb_widget widget_recent_entries">
+		<h4 class="widgettitle">Recent Articles</h4>
+		<ul>
+											<li>
+					<a href="https://gnomestew.com/40-year-retrospective/">40 Year Retrospective</a>
+									</li>
+											<li>
+					<a href="https://gnomestew.com/a-point-on-social-contracts/">A Point On Social Contracts</a>
+									</li>
+											<li>
+					<a href="https://gnomestew.com/worldbuilding-through-oneshots/">Worldbuilding Through Oneshots!</a>
+									</li>
+											<li>
+					<a href="https://gnomestew.com/apocalypse-keys-review/">Apocalypse Keys Review</a>
+									</li>
+											<li>
+					<a href="https://gnomestew.com/spice-up-encounters-with-flavor-rolls/">Spice Up Encounters with Flavor Rolls</a>
+									</li>
+					</ul>
+
+		</div> <!-- end .et_pb_widget --><div id="et_social_followers-2" class="et_pb_widget widget_et_social_followers"><h4 class="widgettitle">Follow Us</h4>
+		<div class="widget_content">
+			<ul class="widget_list">
+								<li>
+						<a class="et-extra-icon et-extra-icon-facebook et-extra-icon-background social-icon" href="https://www.facebook.com/gnomestew"></a>
+						<a href="https://www.facebook.com/gnomestew" class="widget_list_social">
+							<h3 class="title">Facebook</h3>
+													</a>
+					</li>
+										<li>
+						<a class="et-extra-icon et-extra-icon-twitter et-extra-icon-background social-icon" href="https://twitter.com/gnomestew"></a>
+						<a href="https://twitter.com/gnomestew" class="widget_list_social">
+							<h3 class="title">Twitter</h3>
+													</a>
+					</li>
+								</ul>
+		</div>
+		</div> <!-- end .et_pb_widget --><div id="execphp-3" class="et_pb_widget widget_execphp"><h4 class="widgettitle">Our Products</h4>			<div class="execphpwidget"><!-- Engine Publishing -->
+<div class="sidebarcontent" id="enginebookswidget">
+		<h3>Our Books for GMs</h3>
+			<p>Through our partner Engine Publishing, we've published six system-neutral books for GMs, with over 28,000 copies sold. <strong><a href="https://www.enginepublishing.com/online-store">Available in print and PDF.</a></strong></p><br/>
+<p><center>
+
+<a href="https://www.enginepublishing.com/focal-point-the-complete-game-masters-guide-to-running-extraordinary-sessions" target="_blank" class="tip_trigger">
+<img src="https://www.gnomestew.com/images/focalpointmedium.jpg" style="width:42%"><span class="tip" style="width:220px"><span style="font-size:16pt">Focal Point</span><br/><span style="font-size:12pt"> The Complete Game Master's Guide to Running Extraordinary Sessions</span><br/> Click To Find Out More</span></a>
+
+<a href="https://www.enginepublishing.com/unframed-the-art-of-improvisation-for-game-masters" target="_blank" class="tip_trigger">
+<img src="https://www.gnomestew.com/images/unframedmedium.jpg" style="width:42%"><span class="tip" style="width:220px"><span style="font-size:16pt">Unframed</span><br/><span style="font-size:12pt"> The Art of Improvisation for Game Masters</span><br/> Click To Find Out More</span></a>
+
+
+<a href="https://www.enginepublishing.com/https://www.enginepublishing.com/odyssey-the-complete-game-masters-guide-to-campaign-management" target="_blank" class="tip_trigger">
+<img src="https://www.gnomestew.com/images/odysseymedium.jpg" style="width:42%"><span class="tip" style="width:220px"><span style="font-size:16pt">Odyssey</span><br/><span style="font-size:12pt"> The Complete Game Master's Guide to Campaign Management</span><br/> Click To Find Out More</span></a>
+
+
+<a href="https://www.enginepublishing.com/never-unprepared-the-complete-game-masters-guide-to-session-prep" target="_blank" class="tip_trigger">
+<img src="https://www.gnomestew.com/images/neverunpreparedmedium.jpg" style="width:42%"><span class="tip" style="width:220px"><span style="font-size:16pt"> Never Unprepared</span><br/><span style="font-size:12pt">  The Complete Game Master's Guide to Session Prep</span><br/>Click To Find Out More</span></a>
+
+<a href="https://www.enginepublishing.com/masks-1000-memorable-npcs-for-any-roleplaying-game" target="_blank" class="tip_trigger"><img src="https://www.gnomestew.com/images/masksmedium.jpg" style="width:42%"><span class="tip" style="width:220px"><span style="font-size:16pt"> Masks</span><br/><span style="font-size:13pt">  1,000 Memorable NPCs for Any Roleplaying Game</span><br/> Click To Find Out More</span></a>
+
+
+
+<a href="https://www.enginepublishing.com/eureka-501-adventure-plots-to-inspire-game-masters" target="_blank" class="tip_trigger"><img src="https://www.gnomestew.com/images/eurekamedium.jpg" 
+
+style="width:42%"><span class="tip" style="width:220px"><span style="font-size:16pt">Eureka</span><br/><span style="font-size:12pt">  501 Adventure Plots to Inspire Game Masters</span><br/>Click To Find Out More</span></a>
+
+
+<!--<a href="https://www.enginepublishing.com/" target="_blank" class="tip_trigger"><img src="https://www.gnomestew.com/images/engine2by2logo.png" style="width:42%"><span class="tip" style="width:220px"><span style="font-size:16pt">Engine Publishing</span><br/><span style="font-size:12pt"> Dedicated to creating insanely good gaming products.</span><br/>Click To Find Out More</span></a>-->
+
+
+</center></p>
+	
+</div>
+<br/>
+<!-- Encoded Designs -->
+<div class="sidebarcontent" id="encodedwidget">
+		<h3>Through Encoded Designs</h3>
+			<p>Through our partnership in the G.E.M. collective, many of the Gnomes are affiliated with creating products through Encoded Designs. 
+<strong><a href="https://www.drivethrurpg.com/browse/pub/6789/Encoded-Designs?src=GnomeStew&affiliate_id=318304">Available in print and PDF.</a></strong></p><br/>
+<p><center>
+
+<a href="https://misdirectedmark.com/" target="_blank" class="tip_trigger">
+<img src="https://www.gnomestew.com/images/misdirectedmark.jpg" style="width:42%"><span class="tip" style="width:220px"><span style="font-size:16pt">Misdirected Mark Productions</span><br/><span style="font-size:12pt"> Gnomes on Podcasts, even a Gnome Only Podcast!</span><br/> Click To Find Out More</span></a>
+
+<a href="https://www.encodeddesigns.com/rocker-boys-and-vending-machines/" target="_blank" class="tip_trigger">
+<img src="https://www.gnomestew.com/images/rockerboysvendingmachines.jpg" style="width:42%"><span class="tip" style="width:220px"><span style="font-size:16pt">Rockerboys and Vending Machines</span><br/><span style="font-size:12pt"> Do you have what it takes to save Neon City in this 80s, neon, cyberpunk game?</span><br/> Click To Find Out More</span></a>
+
+<a href="https://www.patreon.com/encodeddesigns/" target="_blank" class="tip_trigger">
+<img src="https://www.gnomestew.com/images/charactercache.jpg" style="width:42%"><span class="tip" style="width:220px"><span style="font-size:16pt">Character Cache</span><br/><span style="font-size:12pt"> Art by Matt Morrow, Characters By Encoded Gnomes</span><br/> Click To Find Out More</span></a>
+
+<a href="https://www.encodeddesigns.com/h2o/" target="_blank" class="tip_trigger">
+<img src="https://www.gnomestew.com/images/h20medium.jpg" style="width:42%"><span class="tip" style="width:220px"><span style="font-size:16pt">Hydro Hacker Operatives</span><br/><span style="font-size:12pt"> Gnome 	Phil Vecchione's Dungeon World Hack About Water Rights</span><br/> Click To Find Out More</span></a>
+</center></p>
+
+</div>
+
+<br/></div>
+		</div> <!-- end .et_pb_widget --></div>
+
+		</div> <!-- #content-area -->
+	</div> <!-- .container -->
+</div> <!-- #main-content -->
+
+	
+	<footer id="footer" class="footer_columns_1_4__3_4">
+
+		<div class="container">
+	<div class="et_pb_extra_row container-width-change-notify">
+						<div class="et_pb_extra_column odd column-1">
+					<div id="search-3" class="et_pb_widget widget_search"><h4 class="widgettitle"> </h4><form role="search" method="get" class="search-form" action="https://gnomestew.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></div> <!-- end .et_pb_widget --><div id="execphp-6" class="et_pb_widget widget_execphp"><h4 class="widgettitle">This Gnome Knows Things No Gnome Should Know</h4>			<div class="execphpwidget"><img src="https://www.gnomestew.com/wp-content/uploads/2016/04/gnomescared.png" /></div>
+		</div> <!-- end .et_pb_widget -->				</div>
+								<div class="et_pb_extra_column even column-4">
+					<div id="gs_authors-2" class="et_pb_widget widget_gs_authors"><h4 class="widgettitle">The Gnome Stew Crew</h4>		<div class="widget_content gsauthorwidgetclass">
+			<ul class="widget_list">
+																<li id="1558">
+					<a href="https://gnomestew.com/author/orikes/" class="widget_list_portrait" rel="author">
+						<img alt='' src='https://secure.gravatar.com/avatar/47e97057c1548b0593580fece551b519?s=150&#038;d=https%3A%2F%2Fgnomestew.com%2Fwp-content%2Fuploads%2F2021%2F08%2Fstewuserlogo.png&#038;r=pg' srcset='https://secure.gravatar.com/avatar/47e97057c1548b0593580fece551b519?s=300&#038;d=https%3A%2F%2Fgnomestew.com%2Fwp-content%2Fuploads%2F2021%2F08%2Fstewuserlogo.png&#038;r=pg 2x' class='avatar avatar-150 photo' height='150' width='150' loading='lazy' decoding='async'/>					</a>
+						<a href="https://gnomestew.com/author/orikes/" class="widget_list_author">
+						<h3 class="title">Angela Murray</h3><br/>
+						<span class="post-meta" id="meta-1558">
+						113 Posts </span>
+					</a>
+					<div class="author-footer"><a href="http://www.orikes13" target="_blank"><i class="et-extra-icon et-extra-icon-twitter et-extra-icon-author-1558-color-hover"></i></a></div>				</li>
+																<li id="5435">
+					<a href="https://gnomestew.com/author/clight101/" class="widget_list_portrait" rel="author">
+						<img alt='' src='https://gnomestew.com/wp-content/uploads/2021/08/chris-sniezak_avatar-150x150.jpg' srcset='https://gnomestew.com/wp-content/uploads/2021/08/chris-sniezak_avatar-150x150.jpg 2x' class='avatar avatar-150 photo' height='150' width='150' loading='lazy' decoding='async'/>					</a>
+						<a href="https://gnomestew.com/author/clight101/" class="widget_list_author">
+						<h3 class="title">Chris Sniezak</h3><br/>
+						<span class="post-meta" id="meta-5435">
+						52 Posts </span>
+					</a>
+					<div class="author-footer"><a href="http://www.facebook.com/christopher.sniezak?ref=bookmarks" target="_blank"><i class="et-extra-icon et-extra-icon-facebook et-extra-icon-author-5435-color-hover"></i></a><a href="http://www.twitter.com/misdirectedmark" target="_blank"><i class="et-extra-icon et-extra-icon-twitter et-extra-icon-author-5435-color-hover"></i></a><a href="http://www.plus.google.com/u/0/100745849256519021452/posts" target="_blank"><i class="et-extra-icon et-extra-icon-googleplus et-extra-icon-author-5435-color-hover"></i></a></div>				</li>
+																<li id="14173">
+					<a href="https://gnomestew.com/author/jtevans/" class="widget_list_portrait" rel="author">
+						<img alt='' src='https://gnomestew.com/wp-content/uploads/2022/12/j.t.-evans_avatar-150x150.jpg' srcset='https://gnomestew.com/wp-content/uploads/2022/12/j.t.-evans_avatar-192x192.jpg 2x' class='avatar avatar-150 photo' height='150' width='150' loading='lazy' decoding='async'/>					</a>
+						<a href="https://gnomestew.com/author/jtevans/" class="widget_list_author">
+						<h3 class="title">J.T. Evans</h3><br/>
+						<span class="post-meta" id="meta-14173">
+						103 Posts </span>
+					</a>
+					<div class="author-footer"><a href="http://www.facebook.com/jtevans.author" target="_blank"><i class="et-extra-icon et-extra-icon-facebook et-extra-icon-author-14173-color-hover"></i></a><a href="http://www.twitter.com/jtevans" target="_blank"><i class="et-extra-icon et-extra-icon-twitter et-extra-icon-author-14173-color-hover"></i></a><a href="http://www.pinterest.com/jtevansauthor" target="_blank"><i class="et-extra-icon et-extra-icon-pinterest et-extra-icon-author-14173-color-hover"></i></a><a href="http://www.jtevans.net/" target="_blank"><i class="et-extra-icon et-extra-icon-wordpress et-extra-icon-author-14173-color-hover"></i></a><a href="http://www.instagram.com/jtevans.author/" target="_blank"><i class="et-extra-icon et-extra-icon-instagram et-extra-icon-author-14173-color-hover"></i></a><a href="http://www.youtube.com/user/jtevanswriter" target="_blank"><i class="et-extra-icon et-extra-icon-youtube et-extra-icon-author-14173-color-hover"></i></a></div>				</li>
+																<li id="2317">
+					<a href="https://gnomestew.com/author/knighterrantjr/" class="widget_list_portrait" rel="author">
+						<img alt='' src='https://gnomestew.com/wp-content/uploads/2021/08/jared-rascher_avatar-150x150.jpg' srcset='https://gnomestew.com/wp-content/uploads/2021/08/jared-rascher_avatar-150x150.jpg 2x' class='avatar avatar-150 photo' height='150' width='150' loading='lazy' decoding='async'/>					</a>
+						<a href="https://gnomestew.com/author/knighterrantjr/" class="widget_list_author">
+						<h3 class="title">Jared Rascher</h3><br/>
+						<span class="post-meta" id="meta-2317">
+						152 Posts </span>
+					</a>
+					<div class="author-footer"><a href="http://www.facebook.com/WhatDoIKnowJR/" target="_blank"><i class="et-extra-icon et-extra-icon-facebook et-extra-icon-author-2317-color-hover"></i></a><a href="http://www.twitter.com/WhatDoIKnowJR" target="_blank"><i class="et-extra-icon et-extra-icon-twitter et-extra-icon-author-2317-color-hover"></i></a><a href="http://www.anchor.fm/s/56fa2d04/podcast/rss" target="_blank"><i class="et-extra-icon et-extra-icon-rss et-extra-icon-author-2317-color-hover"></i></a><a href="http://www.youtube.com/channel/UCtbwnF55SK6X4YhZZhS0tyw/featured?view_as=subscriber" target="_blank"><i class="et-extra-icon et-extra-icon-youtube et-extra-icon-author-2317-color-hover"></i></a></div>				</li>
+																<li id="1556">
+					<a href="https://gnomestew.com/author/arcadian/" class="widget_list_portrait" rel="author">
+						<img alt='' src='https://gnomestew.com/wp-content/uploads/2021/08/john-arcadian_avatar_4-150x150.png' srcset='https://gnomestew.com/wp-content/uploads/2021/08/john-arcadian_avatar_4-300x250.png 2x' class='avatar avatar-150 photo' height='150' width='150' loading='lazy' decoding='async'/>					</a>
+						<a href="https://gnomestew.com/author/arcadian/" class="widget_list_author">
+						<h3 class="title">John Arcadian</h3><br/>
+						<span class="post-meta" id="meta-1556">
+						291 Posts </span>
+					</a>
+					<div class="author-footer"><a href="http://www.facebook.com/gnomestew" target="_blank"><i class="et-extra-icon et-extra-icon-facebook et-extra-icon-author-1556-color-hover"></i></a><a href="http://www.twitter.com/gnomestew" target="_blank"><i class="et-extra-icon et-extra-icon-twitter et-extra-icon-author-1556-color-hover"></i></a></div>				</li>
+																<li id="14514">
+					<a href="https://gnomestew.com/author/loricsigety/" class="widget_list_portrait" rel="author">
+						<img alt='' src='https://gnomestew.com/wp-content/uploads/2022/02/lori-caskey-sigety_avatar-150x150.jpg' srcset='https://gnomestew.com/wp-content/uploads/2022/02/lori-caskey-sigety_avatar-300x300.jpg 2x' class='avatar avatar-150 photo' height='150' width='150' loading='lazy' decoding='async'/>					</a>
+						<a href="https://gnomestew.com/author/loricsigety/" class="widget_list_author">
+						<h3 class="title">Lori Caskey-Sigety</h3><br/>
+						<span class="post-meta" id="meta-14514">
+						11 Posts </span>
+					</a>
+					<div class="author-footer"><a href="http://www.facebook.com/lori.sigety" target="_blank"><i class="et-extra-icon et-extra-icon-facebook et-extra-icon-author-14514-color-hover"></i></a><a href="http://www.@LoriCSigety" target="_blank"><i class="et-extra-icon et-extra-icon-twitter et-extra-icon-author-14514-color-hover"></i></a><a href="http://www.marimbaandice.blogspot.com" target="_blank"><i class="et-extra-icon et-extra-icon-blogger et-extra-icon-author-14514-color-hover"></i></a></div>				</li>
+																<li id="9">
+					<a href="https://gnomestew.com/author/rick_twa/" class="widget_list_portrait" rel="author">
+						<img alt='' src='https://gnomestew.com/wp-content/uploads/2021/09/matthew-j.-neagley_avatar-150x150.jpg' srcset='https://gnomestew.com/wp-content/uploads/2021/09/matthew-j.-neagley_avatar-300x300.jpg 2x' class='avatar avatar-150 photo' height='150' width='150' loading='lazy' decoding='async'/>					</a>
+						<a href="https://gnomestew.com/author/rick_twa/" class="widget_list_author">
+						<h3 class="title">Matthew J. Neagley</h3><br/>
+						<span class="post-meta" id="meta-9">
+						214 Posts </span>
+					</a>
+									</li>
+																<li id="89">
+					<a href="https://gnomestew.com/author/spenser/" class="widget_list_portrait" rel="author">
+						<img alt='' src='https://gnomestew.com/wp-content/uploads/2022/12/old-man-logan_avatar-150x150.jpg' srcset='https://gnomestew.com/wp-content/uploads/2022/12/old-man-logan_avatar-300x300.jpg 2x' class='avatar avatar-150 photo' height='150' width='150' loading='lazy' decoding='async'/>					</a>
+						<a href="https://gnomestew.com/author/spenser/" class="widget_list_author">
+						<h3 class="title">Old Man Logan</h3><br/>
+						<span class="post-meta" id="meta-89">
+						Editor </span>
+					</a>
+									</li>
+																<li id="11">
+					<a href="https://gnomestew.com/author/dnaphil/" class="widget_list_portrait" rel="author">
+						<img alt='' src='https://secure.gravatar.com/avatar/52c3b64340263edfc40d868952949f73?s=150&#038;d=https%3A%2F%2Fgnomestew.com%2Fwp-content%2Fuploads%2F2021%2F08%2Fstewuserlogo.png&#038;r=pg' srcset='https://secure.gravatar.com/avatar/52c3b64340263edfc40d868952949f73?s=300&#038;d=https%3A%2F%2Fgnomestew.com%2Fwp-content%2Fuploads%2F2021%2F08%2Fstewuserlogo.png&#038;r=pg 2x' class='avatar avatar-150 photo' height='150' width='150' loading='lazy' decoding='async'/>					</a>
+						<a href="https://gnomestew.com/author/dnaphil/" class="widget_list_author">
+						<h3 class="title">Phil Vecchione</h3><br/>
+						<span class="post-meta" id="meta-11">
+						251 Posts </span>
+					</a>
+					<div class="author-footer"><a href="http://www.facebook.com/dnaphil" target="_blank"><i class="et-extra-icon et-extra-icon-facebook et-extra-icon-author-11-color-hover"></i></a><a href="http://www.twitter.com/DNAphil" target="_blank"><i class="et-extra-icon et-extra-icon-twitter et-extra-icon-author-11-color-hover"></i></a><a href="http://www.plus.google.com/u/0/105496859875371979496/posts" target="_blank"><i class="et-extra-icon et-extra-icon-googleplus et-extra-icon-author-11-color-hover"></i></a><a href="http://www.linkedin.com/pub/philip-vecchione/1/24b/592" target="_blank"><i class="et-extra-icon et-extra-icon-linkedin et-extra-icon-author-11-color-hover"></i></a></div>				</li>
+																<li id="14857">
+					<a href="https://gnomestew.com/author/podcast-gnome/" class="widget_list_portrait" rel="author">
+						<img alt='' src='https://gnomestew.com/wp-content/uploads/2021/08/poddy-gnomington_avatar-150x150.jpg' srcset='https://gnomestew.com/wp-content/uploads/2021/08/poddy-gnomington_avatar-300x300.jpg 2x' class='avatar avatar-150 photo' height='150' width='150' loading='lazy' decoding='async'/>					</a>
+						<a href="https://gnomestew.com/author/podcast-gnome/" class="widget_list_author">
+						<h3 class="title">Poddy Gnomington</h3><br/>
+						<span class="post-meta" id="meta-14857">
+						85 Posts </span>
+					</a>
+									</li>
+																<li id="14166">
+					<a href="https://gnomestew.com/author/senda/" class="widget_list_portrait" rel="author">
+						<img alt='' src='https://gnomestew.com/wp-content/uploads/2022/12/senda-linaugh_avatar_1-150x150.jpg' srcset='https://gnomestew.com/wp-content/uploads/2022/12/senda-linaugh_avatar_1-300x300.jpg 2x' class='avatar avatar-150 photo' height='150' width='150' loading='lazy' decoding='async'/>					</a>
+						<a href="https://gnomestew.com/author/senda/" class="widget_list_author">
+						<h3 class="title">Senda Linaugh</h3><br/>
+						<span class="post-meta" id="meta-14166">
+						39 Posts </span>
+					</a>
+					<div class="author-footer"><a href="http://www.facebook.com/gnomestew" target="_blank"><i class="et-extra-icon et-extra-icon-facebook et-extra-icon-author-14166-color-hover"></i></a><a href="http://www.twitter.com/idellamithlynnd" target="_blank"><i class="et-extra-icon et-extra-icon-twitter et-extra-icon-author-14166-color-hover"></i></a></div>				</li>
+																<li id="14944">
+					<a href="https://gnomestew.com/author/tomasgimenezr/" class="widget_list_portrait" rel="author">
+						<img alt='' src='https://secure.gravatar.com/avatar/e270e6cc380382c30192341ef140fb25?s=150&#038;d=https%3A%2F%2Fgnomestew.com%2Fwp-content%2Fuploads%2F2021%2F08%2Fstewuserlogo.png&#038;r=pg' srcset='https://secure.gravatar.com/avatar/e270e6cc380382c30192341ef140fb25?s=300&#038;d=https%3A%2F%2Fgnomestew.com%2Fwp-content%2Fuploads%2F2021%2F08%2Fstewuserlogo.png&#038;r=pg 2x' class='avatar avatar-150 photo' height='150' width='150' loading='lazy' decoding='async'/>					</a>
+						<a href="https://gnomestew.com/author/tomasgimenezr/" class="widget_list_author">
+						<h3 class="title">Tomas Gimenez Rioja</h3><br/>
+						<span class="post-meta" id="meta-14944">
+						26 Posts </span>
+					</a>
+					<div class="author-footer"><a href="http://www.twitter.com/TGimenezrGM" target="_blank"><i class="et-extra-icon et-extra-icon-twitter et-extra-icon-author-14944-color-hover"></i></a><a href="http://www.linkedin.com/in/tomas-gimenez-rioja/" target="_blank"><i class="et-extra-icon et-extra-icon-linkedin et-extra-icon-author-14944-color-hover"></i></a></div>				</li>
+																<li id="4">
+					<a href="https://gnomestew.com/author/carolina/" class="widget_list_portrait" rel="author">
+						<img alt='' src='https://gnomestew.com/wp-content/uploads/2021/11/troy-e.-taylor_avatar-150x150.jpg' srcset='https://gnomestew.com/wp-content/uploads/2021/11/troy-e.-taylor_avatar-300x300.jpg 2x' class='avatar avatar-150 photo' height='150' width='150' loading='lazy' decoding='async'/>					</a>
+						<a href="https://gnomestew.com/author/carolina/" class="widget_list_author">
+						<h3 class="title">Troy E. Taylor</h3><br/>
+						<span class="post-meta" id="meta-4">
+						238 Posts </span>
+					</a>
+					<div class="author-footer"><a href="http://www.facebook.com/troy.e.taylor" target="_blank"><i class="et-extra-icon et-extra-icon-facebook et-extra-icon-author-4-color-hover"></i></a><a href="http://www.@Troy_pjstar" target="_blank"><i class="et-extra-icon et-extra-icon-twitter et-extra-icon-author-4-color-hover"></i></a><a href="http://www.plus.google.com/u/0/101246976932914102701" target="_blank"><i class="et-extra-icon et-extra-icon-googleplus et-extra-icon-author-4-color-hover"></i></a><a href="http://www.thedungeondelver.wordpress.com" target="_blank"><i class="et-extra-icon et-extra-icon-wordpress et-extra-icon-author-4-color-hover"></i></a></div>				</li>
+							</ul>
+		</div>
+		</div> <!-- end .et_pb_widget -->				</div>
+					</div>
+</div>
+
+		<div id="footer-bottom">
+			<div class="container">
+
+				<!-- Footer Info -->
+				<p id="footer-info">All content &copy; 2023 Gnome Stew and Individual Authors </p>
+
+				<!-- Footer Navigation -->
+								<div id="footer-nav">
+					<ul id="footer-menu" class="bottom-nav"><li id="menu-item-27331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27331"><a href="https://gnomestew.com/about/">About</a></li>
+<li id="menu-item-27333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27333"><a href="https://gnomestew.com/archive/">All Articles</a></li>
+<li id="menu-item-27735" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27735"><a href="https://gnomestew.com/policies/">Policies</a></li>
+<li id="menu-item-41468" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41468"><a href="https://gnomestew.com/write-for-gnome-stew/">Write for Gnome Stew</a></li>
+<li id="menu-item-27334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27334"><a href="https://gnomestew.com/contact/">Contact Us</a></li>
+</ul>						<ul class="et-extra-social-icons" style="">
+																																								<li class="et-extra-social-icon facebook">
+								<a href="https://www.facebook.com/gnomestew" class="et-extra-icon et-extra-icon-background-none et-extra-icon-facebook"></a>
+							</li>
+																																									<li class="et-extra-social-icon twitter">
+								<a href="https://twitter.com/gnomestew" class="et-extra-icon et-extra-icon-background-none et-extra-icon-twitter"></a>
+							</li>
+																																																																																																																																																																																<li class="et-extra-social-icon instagram">
+								<a href="https://instagram.com" class="et-extra-icon et-extra-icon-background-none et-extra-icon-instagram"></a>
+							</li>
+																																																																																																																										<li class="et-extra-social-icon rss">
+								<a href="https://gnomestew.com/feed/" class="et-extra-icon et-extra-icon-background-none et-extra-icon-rss"></a>
+							</li>
+																																																																																																																																																																																																																																																																						</ul>
+									</div> <!-- /#et-footer-nav -->
+				
+			</div>
+		</div>
+	</footer>
+	</div> <!-- #page-container -->
+
+			<span title="Back To Top" id="back_to_top"></span>
+	
+	
+
+<div id="wp_access_helper_container" class="accessability_container dark_theme">
+	<!-- WP Accessibility Helper (WAH) - https://wordpress.org/plugins/wp-accessibility-helper/ -->
+	<!-- Official plugin website - https://accessibility-helper.co.il -->
+		<button type="button" class="wahout aicon_link"
+		accesskey="z"
+		aria-label="Accessibility Helper sidebar"
+		title="Accessibility Helper sidebar">
+		<img src="https://gnomestew.com/wp-content/plugins/wp-accessibility-helper/assets/images/accessibility-48.jpg"
+			alt="Accessibility" class="aicon_image" />
+	</button>
+
+
+	<div id="access_container" aria-hidden="true">
+		<button tabindex="-1" type="button" class="close_container wahout"
+			accesskey="x"
+			aria-label="Close"
+			title="Close">
+			Close		</button>
+
+		<div class="access_container_inner">
+						
+	<button type="button" title="Close sidebar" class="wah-skip close-wah-sidebar">
+
+		Close
+	</button>
+
+			</div>
+	</div>
+
+	
+
+
+<script type="text/javascript">
+
+
+
+	
+
+
+		var roleLink = 1;
+
+
+
+	
+
+
+	
+
+
+		var removeLinkTitles = 1;
+
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+		var wah_lights_off_selector = '.hentry';
+
+
+
+	
+
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <style media="screen">#access_container {font-family:Arial, Helvetica, sans-serif;}</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	<div class="wah-free-credits">
+
+		<div class="wah-free-credits-inner">
+
+			<a href="https://accessibility-helper.co.il/" target="_blank" title="Accessibility by WP Accessibility Helper Team">Accessibility by WAH</a>
+
+		</div>
+
+	</div>
+
+		<!-- WP Accessibility Helper. Created by Alex Volkov. -->
+</div>
+
+
+
+
+
+
+
+
+
+
+
+    <nav class="wah-skiplinks-menu">
+
+
+
+
+
+
+
+
+
+
+    <!-- WP Accessibility Helper - Skiplinks Menu -->
+
+
+
+
+
+
+
+
+
+
+    <div class="wah-skipper"><ul>
+<li class="page_item page-item-27321"><a href="https://gnomestew.com/404page/">404</a></li>
+<li class="page_item page-item-2"><a href="https://gnomestew.com/about/">About Gnome Stew</a></li>
+<li class="page_item page-item-3264"><a href="https://gnomestew.com/always-gonna-read-gnome-stew-the-song/">Always Gonna Read Gnome Stew: The Song</a></li>
+<li class="page_item page-item-27319"><a href="https://gnomestew.com/archive/">archive</a></li>
+<li class="page_item page-item-27741"><a href="https://gnomestew.com/categories/">Categories</a></li>
+<li class="page_item page-item-46546"><a href="https://gnomestew.com/code-of-conduct/">Code of Conduct</a></li>
+<li class="page_item page-item-16"><a href="https://gnomestew.com/contact/">Contact Us</a></li>
+<li class="page_item page-item-28496"><a href="https://gnomestew.com/dashboard/">Dashboard</a></li>
+<li class="page_item page-item-28497"><a href="https://gnomestew.com/edit/">Edit</a></li>
+<li class="page_item page-item-7449"><a href="https://gnomestew.com/gencon-tips-from-gnome-stew/">GenCon Tips from Gnome Stew</a></li>
+<li class="page_item page-item-28518"><a href="https://gnomestew.com/gnome-stew-guest-article-form/">Gnome Stew Guest Article Form</a></li>
+<li class="page_item page-item-8283"><a href="https://gnomestew.com/gnome-stew-in-other-languages/">Gnome Stew in Other Languages</a></li>
+<li class="page_item page-item-5357"><a href="https://gnomestew.com/gnome-stew-paper-miniature-maker/">Gnome Stew Paper Miniature Maker</a></li>
+<li class="page_item page-item-35336"><a href="https://gnomestew.com/gnomespotting/">Gnomespotting</a></li>
+<li class="page_item page-item-41570"><a href="https://gnomestew.com/guest-contributors/">Guest Contributors</a></li>
+<li class="page_item page-item-196"><a href="https://gnomestew.com/help/">Help</a></li>
+<li class="page_item page-item-25453"><a href="https://gnomestew.com/koboldspy/">I&#8217;m Caught!</a></li>
+<li class="page_item page-item-20"><a href="https://gnomestew.com/link-love/">Link Love</a></li>
+<li class="page_item page-item-28498"><a href="https://gnomestew.com/login/">Login</a></li>
+<li class="page_item page-item-19"><a href="https://gnomestew.com/meet-the-gnomes/">Meet the Gnomes</a></li>
+<li class="page_item page-item-32806"><a href="https://gnomestew.com/merch/">Merch</a></li>
+<li class="page_item page-item-29386"><a href="https://gnomestew.com/my-account/">My Account</a></li>
+<li class="page_item page-item-8266"><a href="https://gnomestew.com/my-god-its-full-of-gnomes/">My God, It&#8217;s Full of Gnomes!</a></li>
+<li class="page_item page-item-1247"><a href="https://gnomestew.com/newest-comments/">Newest Comments</a></li>
+<li class="page_item page-item-96"><a href="https://gnomestew.com/now-your-hands-smell-like-gnome/">Now Your Hands Smell Like Gnome</a></li>
+<li class="page_item page-item-3598"><a href="https://gnomestew.com/old-suggestion-pot/">Old Suggestion Pot</a></li>
+<li class="page_item page-item-27725"><a href="https://gnomestew.com/policies/">Policies</a></li>
+<li class="page_item page-item-3185"><a href="https://gnomestew.com/recipe-for-gnome-stew-2/">Recipe for Gnome Stew</a></li>
+<li class="page_item page-item-29805"><a href="https://gnomestew.com/register/">Register</a></li>
+<li class="page_item page-item-32823"><a href="https://gnomestew.com/store/">Store</a></li>
+<li class="page_item page-item-17"><a href="https://gnomestew.com/subscribe/">Subscribe</a></li>
+<li class="page_item page-item-14429"><a href="https://gnomestew.com/suggestion-pot/">Suggestion Pot</a></li>
+<li class="page_item page-item-71"><a href="https://gnomestew.com/suggestion-pot-2008-2009/">Suggestion Pot: 2008-2009</a></li>
+<li class="page_item page-item-3608"><a href="https://gnomestew.com/testimonials-smart-sexy-famous-people-love-gnome-stew/">Testimonials: Smart, Sexy, Famous People Love Gnome Stew</a></li>
+<li class="page_item page-item-29371"><a href="https://gnomestew.com/thank-you-patrons/">Thank You Patrons</a></li>
+<li class="page_item page-item-27376"><a href="https://gnomestew.com/timeline/">timeline</a></li>
+<li class="page_item page-item-11204"><a href="https://gnomestew.com/write-for-gnome-stew/">Write for Gnome Stew</a></li>
+</ul></div>
+
+
+
+
+
+
+
+
+
+
+    <!-- WP Accessibility Helper - Skiplinks Menu -->
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="et_social_pin_images_outer">
+					<div class="et_social_pinterest_window">
+						<div class="et_social_modal_header"><h3>Pin It on Pinterest</h3><span class="et_social_close"></span></div>
+						<div class="et_social_pin_images" data-permalink="https://gnomestew.com/40-year-retrospective/" data-title="40 Year Retrospective" data-post_id="51252"></div>
+					</div>
+				</div>		<script type="application/javascript">
+			(function() {
+				var file     = ["https:\/\/gnomestew.com\/wp-content\/et-cache\/27267\/et-extra-dynamic-27267-late.css"];
+				var handle   = document.getElementById('extra-style-parent-css');
+				var location = handle.parentNode;
+
+				if (0===document.querySelectorAll('link[href="' + file + '"]').length) {
+					var link  = document.createElement('link');
+					link.rel  = 'stylesheet';
+					link.id   = 'et-dynamic-late-css';
+					link.href = file;
+
+					location.insertBefore(link, handle.nextSibling);
+				}
+			})();
+		</script>
+		<style id="et-builder-googlefonts-inline">/* Original: https://fonts.googleapis.com/css?family=Lato:100,100italic,300,300italic,regular,italic,700,700italic,900,900italic&#038;subset=latin,latin-ext&#038;display=swap *//* User Agent: Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) Safari/538.1 Daum/4.1 */@font-face {font-family: 'Lato';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-mPCc.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_FQfo.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAUi-v.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_FQfo.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_FQfo.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AUi-v.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwaPHA.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwWw.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPHA.ttf) format('truetype');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwaPHA.ttf) format('truetype');}/* User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0 */@font-face {font-family: 'Lato';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-mPCQ.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_FQfr.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAUi-s.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_FQfr.woff) format('woff');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_FQfr.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AUi-s.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwaPHw.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwWA.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPHw.woff) format('woff');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwaPHw.woff) format('woff');}/* User Agent: Mozilla/5.0 (Windows NT 6.3; rv:39.0) Gecko/20100101 Firefox/39.0 */@font-face {font-family: 'Lato';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-mPCI.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_FQft.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAUi-q.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_FQft.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_FQft.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AUi-q.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwaPGQ.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwXg.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPGQ.woff2) format('woff2');}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwaPGQ.woff2) format('woff2');}</style><link rel='stylesheet' id='mediaelement-css' href='https://gnomestew.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://gnomestew.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://gnomestew.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://gnomestew.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='jquery-js-after'>
+jqueryParams.length&&$.each(jqueryParams,function(e,r){if("function"==typeof r){var n=String(r);n.replace("$","jQuery");var a=new Function("return "+n)();$(document).ready(a)}});
+</script>
+<script type='text/javascript' src='https://gnomestew.com/wp-content/plugins/patreon-connect/assets/js/app.js?ver=6.2.2' id='patreon-wordpress-js-js'></script>
+<script type='text/javascript' src='https://gnomestew.com/wp-content/plugins/wp-accessibility-helper/assets/js/wp-accessibility-helper.min.js?ver=1.0.0' id='wp-accessibility-helper-js'></script>
+<script type='text/javascript' src='https://gnomestew.com/wp-content/plugins/monarch/js/idle-timer.min.js?ver=1.4.14' id='et_monarch-idle-js'></script>
+<script type='text/javascript' id='et_monarch-custom-js-js-extra'>
+/* <![CDATA[ */
+var monarchSettings = {"ajaxurl":"https:\/\/gnomestew.com\/wp-admin\/admin-ajax.php","pageurl":"","stats_nonce":"02450128d7","share_counts":"872b4b47af","follow_counts":"dc0b5f6a91","total_counts":"e14bf61705","media_single":"e68a9dea7f","media_total":"ad823fde0b","generate_all_window_nonce":"36b7a51097","no_img_message":"No images available for sharing on this page"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://gnomestew.com/wp-content/plugins/monarch/js/custom.js?ver=1.4.14' id='et_monarch-custom-js-js'></script>
+<script type='text/javascript' src='https://gnomestew.com/wp-content/themes/gnomestew2016/js/jscookie.js?ver=1.0.0' id='jscookie-js'></script>
+<script type='text/javascript' src='https://gnomestew.com/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
+<script type='text/javascript' id='extra-scripts-js-extra'>
+/* <![CDATA[ */
+var EXTRA = {"images_uri":"https:\/\/gnomestew.com\/wp-content\/themes\/Extra\/images\/","ajaxurl":"https:\/\/gnomestew.com\/wp-admin\/admin-ajax.php","your_rating":"Your Rating:","item_in_cart_count":"%d Item in Cart","items_in_cart_count":"%d Items in Cart","item_count":"%d Item","items_count":"%d Items","rating_nonce":"3d35cddf49","timeline_nonce":"576a444d6d","blog_feed_nonce":"6f828872c8","error":"There was a problem, please try again.","contact_error_name_required":"Name field cannot be empty.","contact_error_email_required":"Email field cannot be empty.","contact_error_email_invalid":"Please enter a valid email address.","is_ab_testing_active":"","is_cache_plugin_active":"no"};
+var et_builder_utils_params = {"condition":{"diviTheme":false,"extraTheme":true},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/gnomestew.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/gnomestew.com\/wp-content\/themes\/Extra\/images","builder_images_uri":"https:\/\/gnomestew.com\/wp-content\/themes\/Extra\/includes\/builder\/images","et_frontend_nonce":"f88839544e","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"43e583176e","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"27267","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"https:\/\/gnomestew.com\/wp-content\/themes\/Extra\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#990100","waypoints_options":[]};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://gnomestew.com/wp-content/themes/Extra/scripts/scripts.min.js?ver=4.21.1' id='extra-scripts-js'></script>
+<script type='text/javascript' src='https://gnomestew.com/wp-content/themes/Extra/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.21.0' id='fitvids-js'></script>
+<script type='text/javascript' src='https://gnomestew.com/wp-content/themes/Extra/core/admin/js/common.js?ver=4.21.0' id='et-core-common-js'></script>
+<script type='text/javascript' src='https://gnomestew.com/wp-content/themes/gnomestew2016/js/gnomecustom.js?ver=6.2.2' id='gscustom-js'></script>
+<script type='text/javascript' id='mediaelement-core-js-before'>
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://gnomestew.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17' id='mediaelement-core-js'></script>
+<script type='text/javascript' src='https://gnomestew.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.2.2' id='mediaelement-migrate-js'></script>
+<script type='text/javascript' id='mediaelement-js-extra'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://gnomestew.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.2.2' id='wp-mediaelement-js'></script>
+<style id="et-builder-module-design-deferred-27267-cached-inline-styles">.et_extra_layout .et_pb_extra_column_main .et_pb_row_1{background-color:rgba(255,255,255,0);background-color:transparent!important}.et_extra_layout .et_pb_extra_column_main .et_pb_posts_blog_feed_standard_0 .hentry h2 a{font-size:22px!important;color:#990100!important}.et_extra_layout .et_pb_extra_column_main .et_pb_posts_blog_feed_standard_0 .hentry .post-meta,.et_pb_posts_blog_feed_standard_0 .hentry .post-meta .comment-bubble:before,.et_pb_posts_blog_feed_standard_0 .hentry .post-meta .rating-star:before{font-size:14px}.et_extra_layout .et_pb_extra_column_main .et_pb_posts_blog_feed_standard_0{background-color:transparent!important;max-width:100%}.et_extra_layout .et_pb_extra_column_main .et_pb_column_1{background-color:rgba(2,2,2,0);background-color:transparent!important}@media only screen and (max-width:980px){.et_extra_layout .et_pb_extra_column_main .et_pb_section_0{padding-top:50px;padding-right:0px;padding-bottom:50px;padding-left:0px}}@media only screen and (max-width:767px){.et_extra_layout .et_pb_extra_column_main .et_pb_row_0{display:none!important}}</style>	
+
+
+<!--Google Analytics - John's account with newer data-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-73301609-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!--End Google Analytics-->
+
+
+<script type="text/javascript" src="https://gnomestew.com/easteregg/konami.js"></script>
+</body>
+</html>
